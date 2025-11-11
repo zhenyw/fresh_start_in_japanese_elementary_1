@@ -1,0 +1,4125 @@
+# 
+# Template for each card
+#
+# SUBDECK: define subdeck for all below cards before next subdeck
+#
+# FRONT:
+# BACK:
+#
+# card example:
+#
+# FRONT: [sound:xxx.mp3] <img src="media/xxx.png">
+# BACK: ...
+#
+DECK_NAME:日语新起点 初级 上册
+AUTHOR: Zhenyu Wang (zhenyuw.linux@gmail.com)
+DESCRIPTION:
+
+---
+SUBDECK: 第01课
+---
+FRONT:今
+BACK:（いま①）［名］现在[sound:01-01.mp3]
+---
+FRONT:今日
+BACK:（きょう①）［名］今天[sound:01-02.mp3]
+---
+FRONT:〜時
+BACK:（じ）［量］......点（钟）[sound:01-03.mp3]
+---
+FRONT:明日
+BACK:（あした③）［名］明天[sound:01-04.mp3]
+---
+FRONT:犬
+BACK:（いぬ②）［名］狗[sound:01-05.mp3]
+---
+FRONT:〜時半
+BACK:（じはん<img src="-2.png">）......点半[sound:01-06.mp3]
+---
+FRONT:昨日
+BACK:（きのう②）［名］昨天[sound:01-07.mp3]
+---
+FRONT:猫
+BACK:（ねこ①）［名］猫[sound:01-08.mp3]
+---
+FRONT:寝る
+BACK:（ねる⓪）［自动２］睡，睡觉[sound:01-09.mp3]
+
+寝ます（ねます②）[sound:01-10.mp3]
+---
+FRONT:まだ①
+BACK:［副］还，仍然[sound:01-11.mp3]
+---
+FRONT:よし①
+BACK:［叹］好，行，可以[sound:01-12.mp3]
+---
+FRONT:ゲーム①
+BACK:［名］游戏（game）[sound:01-13.mp3]
+---
+FRONT:楽しい
+BACK:（たのしい③）［い形］快乐的，愉快的[sound:01-14.mp3]
+---
+FRONT:あのう⓪
+BACK:［叹］那个......[sound:01-15.mp3]
+---
+FRONT:もう①
+BACK:［副］已经[sound:01-16.mp3]
+---
+FRONT:〜けど／けれど／けれども
+BACK:连接两个小句，表示铺垫或转折[sound:01-17.mp3]
+---
+FRONT:ニャー①
+BACK:［副］喵（猫叫声）[sound:01-18.mp3]
+---
+FRONT:今週
+BACK:（こんしゅう⓪）［名］本周[sound:01-19.mp3]
+---
+FRONT:来週
+BACK:（らいしゅう⓪）［名］下周[sound:01-20.mp3]
+---
+FRONT:今月
+BACK:（こんげつ⓪）［名］这个月[sound:01-21.mp3]
+---
+FRONT:来月
+BACK:（らいげつ①）［名］下个月[sound:01-22.mp3]
+---
+FRONT:明後日
+BACK:（あさって②）［名］后天[sound:01-23.mp3]
+---
+FRONT:ああ①
+BACK:［叹］啊（用于打招呼、附和，也可表达强烈的感动、吃惊之意，还可表示肯定回答）[sound:01-24.mp3]
+---
+SUBDECK: 第02课
+---
+FRONT:もしもし①
+BACK:［叹］喂（用于打招呼或打电话的开头）[sound:02-01.mp3]
+---
+FRONT:私
+BACK:（わたし⓪）［代］我（最普通的说法，男女均可用）[sound:02-02.mp3]
+---
+FRONT:李
+BACK:（り①）［专］李[sound:02-03.mp3]
+---
+FRONT:はい①
+BACK:［叹］是，对（用于郑重应答、应允答应、促使对方注意等）[sound:02-04.mp3]
+---
+FRONT:張
+BACK:（ちょう①）［专］ 张[sound:02-05.mp3]
+---
+FRONT:いいえ③
+BACK:［叹］ 不，不是[sound:02-06.mp3]
+---
+FRONT:王
+BACK:（おう①／ワン①）［专］王[sound:02-07.mp3]
+---
+FRONT:孫
+BACK:（そん①）［专］ 孙[sound:02-08.mp3]
+---
+FRONT:あなた②
+BACK:［代］你，您[sound:02-09.mp3]
+---
+FRONT:先週
+BACK:（せんしゅう⓪）［名］ 上周[sound:02-10.mp3]
+---
+FRONT:馬鹿
+BACK:（ばか①）［名／な形］笨蛋；糊涂，愚蠢[sound:02-11.mp3]
+---
+FRONT:楊
+BACK:（よう①／ヤン①）［专］杨[sound:02-12.mp3]
+---
+FRONT:0、零
+BACK:ゼロ①（zero）、（れい①）［数］0[sound:02-13.mp3]
+---
+FRONT:ええと／えっと⓪
+BACK:［叹］ 嗯......（用于说话时的短暂停顿）[sound:02-14.mp3]
+---
+FRONT:メアリー①
+BACK:［专］玛丽（Mary）[sound:02-15.mp3]
+---
+FRONT:あっ①
+BACK:［叹］ 啊，呀，哎呀（表示吃惊或强烈感叹）[sound:02-16.mp3]
+---
+FRONT:リサ①
+BACK:［专］莉莎（Lisa）[sound:02-17.mp3]
+---
+FRONT:すみません④
+BACK:对不起。不好意思。（用于道歉、道谢、搭话等）[sound:02-18.mp3]
+---
+FRONT:どなた①
+BACK:［疑］哪位[sound:02-19.mp3] 
+---
+FRONT:ごめん⓪／ごめんなさい ⑤
+BACK:抱歉。对不起。[sound:02-20.mp3]
+---
+FRONT:彼女
+BACK:（かのじょ①）［代］她；［名］女朋友[sound:02-21.mp3]
+---
+FRONT:僕
+BACK:（ぼく①）［代］我（男性自称）[sound:02-22.mp3]
+---
+FRONT:田中
+BACK:（たなか⓪）［专］田中[sound:02-23.mp3]
+---
+FRONT:こんにちは⓪
+BACK:你好。[sound:02-24.mp3]
+---
+FRONT:佐藤
+BACK:（さとう①）［专］佐藤[sound:02-25.mp3]
+---
+SUBDECK: 第03课
+---
+FRONT: 初めまして
+BACK: （はじめまして④）初次见面（你好）。[sound:03-01.mp3]
+---
+FRONT: 中国人
+BACK: （ちゅうごくじん④）[名] 中国人 [sound:03-02.mp3]
+---
+FRONT: 韓国人
+BACK: （かんこくじん④）[名] 韩国人 [sound:03-03.mp3]
+---
+FRONT: 日本人
+BACK: （にほんじん④）[名] 日本人[sound:03-04.mp3]
+---
+FRONT: 中国
+BACK: （ちゅうごく①）[专] 中国[sound:03-05.mp3]
+---
+FRONT: 韓国
+BACK: （かんこく①）[专] 韩国[sound:03-06.mp3]
+---
+FRONT: アメリカ⓪
+BACK: [专] 美国（America）[sound:03-07.mp3]
+---
+FRONT: フランス⓪
+BACK: [专] 法国（France）[sound:03-08.mp3]
+---
+FRONT: アメリカ人
+BACK: （アメリカじん④）[名] 美国人[sound:03-09.mp3]
+---
+FRONT: フランス人
+BACK: （フランスじん④）[名] 法国人[sound:03-10.mp3]
+---
+FRONT: 鈴木
+BACK: （すずき⓪）[专] 铃木[sound:03-11.mp3]
+---
+FRONT: 伊藤
+BACK: （いとう⓪）[专] 伊藤[sound:03-12.mp3]
+---
+FRONT: 趙
+BACK: （ちょう①）[专] 赵[sound:03-13.mp3]
+---
+FRONT: 山田
+BACK: （やまだ⓪）[专] 山田[sound:03-14.mp3]
+---
+FRONT: どうぞ①
+BACK: [副] 请……（请求或许可）[sound:03-15.mp3]
+---
+FRONT: よろしく⓪
+BACK: [副] 多多关照[sound:03-16.mp3]
+---
+FRONT: お願いします
+BACK: （おねがいします⑥）拜托，麻烦。（用于祈愿、恳求、请求）[sound:03-17.mp3]
+---
+FRONT: 肉/お肉
+BACK: （にく②）/（おにく②）[名] 肉[sound:03-18.mp3]
+---
+FRONT: 美味しい
+BACK: （おいしい⓪③）[い形] 美味的，好吃的[sound:03-19.mp3]
+---
+FRONT: おはよう⓪（-ございます<img src="-2.png">）
+BACK: 早上好。[sound:03-20.mp3]
+---
+FRONT: 寿司/お寿司
+BACK: （すし②）/（おすし②）[名] 寿司[sound:03-21.mp3]
+---
+FRONT: 天ぷら
+BACK: （てんぷら⓪）[名] 天妇罗（油炸海味食品）[sound:03-22.mp3]
+---
+FRONT: 面白い
+BACK: （おもしろい④）[い形] 滑稽可笑的，有趣的，愉快的[sound:03-23.mp3]
+---
+FRONT: 熱い
+BACK: （あつい②）[い形] 热，烫[sound:03-24.mp3]
+---
+FRONT: 自己紹介
+BACK: （じこしょうかい③）[名] 自我介绍[sound:03-25.mp3]
+---
+FRONT: 皆さん
+BACK: （みなさん②）/みんな③[名] 大家[sound:03-26.mp3]
+---
+FRONT: 劉
+BACK: （りゅう①）[专] 刘[sound:03-27.mp3]
+---
+FRONT: 大学
+BACK: （だいがく⓪）[名] 大学[sound:03-28.mp3]
+---
+FRONT: わあ①
+BACK: [叹] 哇，呀，哎呀[sound:03-29.mp3]
+---
+FRONT: うん①
+BACK: [叹] 嗯（比“はい【叹】”更为随意）[sound:03-30.mp3]
+---
+SUBDECK: 第04课
+---
+FRONT: 高校
+BACK: （こうこう⓪）[名] 高中 [sound:04-01.mp3]
+---
+FRONT: 学校
+BACK: （がっこう⓪）[名] 学校[sound:04-02.mp3]
+---
+FRONT: 小学/小学校
+BACK: （しょうがく⓪）/（しょうがっこう③）[名] 小学[sound:04-03.mp3]
+---
+FRONT: 中学
+BACK: （ちゅうがく①）[名] 初中[sound:04-04.mp3]
+---
+FRONT: 大学院
+BACK: （だいがくいん④）[名] 研究生院[sound:04-05.mp3]
+---
+FRONT: 小学生
+BACK: （しょうがくせい③）[名] 小学生[sound:04-06.mp3]
+---
+FRONT: 中学生
+BACK: （ちゅうがくせい③④）[名] 初中生[sound:04-07.mp3]
+---
+FRONT: 高校生
+BACK: （こうこうせい③）[名] 高中生[sound:04-08.mp3]
+---
+FRONT: 大学生
+BACK: （だいがくせい③④）[名] 大学生[sound:04-09.mp3]
+---
+FRONT: 院生
+BACK: （いんせい⓪）[名] 研究生[sound:04-10.mp3]
+---
+FRONT: 学生
+BACK: （がくせい⓪）[名] (大)学生[sound:04-11.mp3]
+---
+FRONT: 先生
+BACK: （せんせい③）[名] 老师[sound:04-12.mp3]
+---
+FRONT: 20歳
+BACK: （はたち①）[名] 20岁[sound:04-13.mp3]
+---
+FRONT: えっ①
+BACK: [叹] 啊，唉（用于惊讶时）[sound:04-14.mp3]
+---
+FRONT: じゃ（あ）①
+BACK: [连] 那么[sound:04-15.mp3]
+---
+FRONT: 30歳
+BACK: （さんじゅっさい/さんじっさい③）[名] 30岁[sound:04-16.mp3]
+---
+FRONT: 何歳
+BACK: （なんさい①）[疑] 几岁[sound:04-17.mp3]
+---
+FRONT: お先に
+BACK: （おさきに⓪）[副] 先（告辞）[sound:04-18.mp3]
+---
+FRONT: 失礼
+BACK: （しつれい②）[名/自动3] 失礼，无礼，失陪[sound:04-19.mp3]
+---
+FRONT: 終わり
+BACK: （おわり⓪）[名] 终了，终点，结局[sound:04-20.mp3]
+---
+SUBDECK: 第05课
+---
+FRONT: 北京
+BACK: （ペキン①）[专] 北京（Peking）[sound:05-01.mp3]
+---
+FRONT: 北京大学
+BACK: （ペキンだいがく④）[专] 北京大学[sound:05-02.mp3]
+---
+FRONT: 午前
+BACK: （ごぜん①）[名] 上午[sound:05-03.mp3]
+---
+FRONT: 午後
+BACK: （ごご①）[名] 下午[sound:05-04.mp3]
+---
+FRONT: 会場
+BACK: （かいじょう⓪）[名] 会场[sound:05-05.mp3]
+---
+FRONT: 友達
+BACK: （ともだち⓪）[名] 朋友[sound:05-06.mp3]
+---
+FRONT: 母
+BACK: （はは①）[名]（我）母亲[sound:05-07.mp3]
+---
+FRONT: 医者
+BACK: （いしゃ⓪）[名] 医生[sound:05-08.mp3]
+---
+FRONT: 嘘
+BACK: （うそ①）[名] 骗人，谎言[sound:05-09.mp3]
+---
+FRONT: 父
+BACK: （ちち①②）[名]（我）父亲[sound:05-10.mp3]
+---
+FRONT: いらっしゃいませ⑥
+BACK: 欢迎光临。[sound:05-11.mp3]
+---
+FRONT: オレンジジュース⑤
+BACK: [名] 橙汁（orange juice）[sound:05-12.mp3]
+---
+FRONT: アイスクリーム⑤
+BACK: [名] 冰激凌（ice-cream）[sound:05-13.mp3]
+---
+FRONT: レシート②
+BACK: [名] 收据，小票（receipt）[sound:05-14.mp3]
+---
+FRONT: ハンバーグ③
+BACK: [名] 肉饼（hamburg）[sound:05-15.mp3]
+---
+FRONT: いい①
+BACK: [い形] 好的[sound:05-16.mp3]
+---
+FRONT: いただきます⑤（頂きます）
+BACK: 我开始吃了。[sound:05-17.mp3]
+---
+FRONT: ハンバーガー③
+BACK: [名] 汉堡包（hamburger）[sound:05-18.mp3]
+---
+FRONT: 愛
+BACK:（あい①）［名］爱[sound:05-19.mp3]
+---
+FRONT: ジュース①
+BACK: [名] 果汁（juice）[sound:05-20.mp3]
+---
+FRONT: 日本
+BACK: （にほん②）[专] 日本[sound:05-21.mp3]
+---
+FRONT: 主婦
+BACK: （しゅふ①）[名] 家庭主妇[sound:05-22.mp3]
+---
+FRONT: 会社員
+BACK: （かいしゃいん③）[名] 公司职员[sound:05-23.mp3]
+---
+FRONT: 歌手
+BACK: （かしゅ①）[名] 歌手[sound:05-24.mp3]
+---
+FRONT: 弁護士
+BACK: （べんごし③）[名] 律师[sound:05-25.mp3]
+---
+FRONT: 作家
+BACK: （さっか⓪）[名] 作家[sound:05-26.mp3]
+---
+FRONT: 運転手
+BACK: （うんてんしゅ③）[名] 司机[sound:05-27.mp3]
+---
+FRONT: 公務員
+BACK: （こうむいん③）[名] 公务员[sound:05-28.mp3]
+---
+FRONT: ええ②
+BACK: [叹] 欸，咦（用于疑惑、震惊时）[sound:05-29.mp3]
+---
+SUBDECK: 第06课
+---
+FRONT: ちょっと①
+BACK: [副] 稍微，一点儿，……一下[sound:06-01.mp3]
+---
+FRONT: 待って
+BACK: （まって①）请等待。[sound:06-02.mp3]
+---
+FRONT: 電話/お電話
+BACK: （でんわ⓪）/（おでんわ②）[名] 电话[sound:06-03.mp3]
+---
+FRONT: 冷蔵庫
+BACK: （れいぞうこ③）[名] 冰箱[sound:06-04.mp3]
+---
+FRONT: サイン①
+BACK: [名/自他动3] 签字，签名（sign）[sound:06-05.mp3]
+---
+FRONT: ありがとう②（一ございます④）
+BACK: 谢谢。[sound:06-06.mp3]
+---
+FRONT: ファックス①
+BACK: [名] 传真（fax）[sound:06-07.mp3]
+---
+FRONT: 分かりました
+BACK: （わかりました④）我知道了。[sound:06-08.mp3]
+---
+FRONT: こんばんは⓪
+BACK: 晚上好。[sound:06-09.mp3]
+---
+FRONT: メール⓪
+BACK: [名] 邮件（mail）[sound:06-10.mp3]
+---
+FRONT: チェック①
+BACK: [名/他动3] 检查，核对（check）[sound:06-11.mp3]
+---
+FRONT: 手紙/お手紙
+BACK: （てがみ⓪）/（おてがみ②）[名] 信件[sound:06-12.mp3]
+---
+FRONT: お客さん
+BACK: （おきゃくさん⓪）[名] 客人[sound:06-13.mp3]
+---
+FRONT: 約束
+BACK: （やくそく⓪）[名/他动3] 约定[sound:06-14.mp3]
+---
+FRONT: 林
+BACK: （りん①）[专] 林[sound:06-15.mp3]
+---
+FRONT: 炊飯器
+BACK: （すいはんき③）[名] 电饭锅[sound:06-16.mp3]
+---
+FRONT: 洗濯機
+BACK: （せんたくき③④）[名] 洗衣机[sound:06-17.mp3]
+---
+FRONT: テレビ①
+BACK: [名] 电视机（television）[sound:06-18.mp3]
+---
+FRONT: エアコン⓪
+BACK: [名] 空调（airconditioner）[sound:06-19.mp3]
+---
+FRONT: パソコン⓪
+BACK: [名] 电脑（personal computer）[sound:06-20.mp3]
+---
+FRONT: 掃除機
+BACK: （そうじき③）[名] 吸尘器[sound:06-21.mp3]
+---
+FRONT: ラジオ①
+BACK: [名] 收音机（radio）[sound:06-22.mp3]
+---
+SUBDECK: 第07课
+---
+FRONT: 子供
+BACK: （こども⓪）[名] 孩子[sound:07-01.mp3]
+---
+FRONT: 女
+BACK: （おんな③）[名] 女人，女性[sound:07-02.mp3]
+---
+FRONT: 子
+BACK: （こ⓪）[名] 孩子，子，小孩子[sound:07-03.mp3]
+---
+FRONT: そう
+BACK: [叹] ①是，是的；[副] ⓪那样，那么[sound:07-04.mp3]
+---
+FRONT: 男
+BACK: （おとこ③）[名] 男人，男性[sound:07-05.mp3]
+---
+FRONT: 中
+BACK: （なか①）[名] 里面，中间[sound:07-06.mp3]
+---
+FRONT: ～たち
+BACK: ......们（表示复数）[sound:07-07.mp3]
+---
+FRONT: どこ①
+BACK: [疑] 哪儿，哪里[sound:07-08.mp3]
+---
+FRONT: 事務室
+BACK: （じむしつ②）[名] 办公室[sound:07-09.mp3]
+---
+FRONT: 外
+BACK: （そと①）[名] 外面[sound:07-10.mp3]
+---
+FRONT: 人
+BACK: （ひと⓪）[名] 人[sound:07-11.mp3]
+---
+FRONT: 男性
+BACK: （だんせい⓪）[名] 男性[sound:07-12.mp3]
+---
+FRONT: 女性
+BACK: （じょせい⓪）[名] 女性[sound:07-13.mp3]
+---
+FRONT: 大人
+BACK: （おとな⓪）[名] 大人[sound:07-14.mp3]
+---
+FRONT: 前
+BACK: （まえ①）[名] 前面[sound:07-15.mp3]
+---
+FRONT: 後ろ
+BACK: （うしろ⓪）[名] 后面[sound:07-16.mp3]
+---
+FRONT: 左
+BACK: （ひだり⓪）[名] 左[sound:07-17.mp3]
+---
+FRONT: 右
+BACK: （みぎ⓪）[名] 右[sound:07-18.mp3]
+---
+FRONT: そろそろ①
+BACK: [副] 快要，即将，不久[sound:07-19.mp3]
+---
+FRONT: 時間/お時間
+BACK: （じかん⓪/おじかん②）[名] 时间[sound:07-20.mp3]
+---
+FRONT: かばん⓪
+BACK: [名] 皮包，提包，包[sound:07-21.mp3]
+---
+FRONT: 傘
+BACK: （かさ①）[名] 伞[sound:07-22.mp3]
+---
+FRONT: よし①
+BACK: [叹] 好，好嘞
+---
+FRONT: ネクタイ①
+BACK: [名] 领带 (necktie)[sound:07-23.mp3]
+---
+FRONT: 行ってきます
+BACK: （いってきます⑤）我走了。去去就来。[sound:07-24.mp3]
+---
+FRONT: 行ってらっしゃい
+BACK: （いってらっしゃい⓪⑥）你走好。快去快回。[sound:07-25.mp3]
+---
+FRONT: 靴
+BACK: （くつ②）[名] 鞋[sound:07-26.mp3]
+---
+FRONT: お母さん
+BACK: （おかあさん②）[名] 母亲[sound:07-27.mp3]
+---
+FRONT: お父さん
+BACK: （おとうさん②）[名] 父亲[sound:07-28.mp3]
+---
+FRONT: 本
+BACK: （ほん①）[名] 书[sound:07-29.mp3]
+---
+FRONT: バナナ①
+BACK: [名] 香蕉[sound:07-30.mp3]
+---
+FRONT: 新聞
+BACK: （しんぶん①）[名] 报纸[sound:07-31.mp3]
+---
+SUBDECK: 第08课
+---
+FRONT: 陳
+BACK: （ちん①）[专] 陈[sound:08-01.mp3]
+---
+FRONT: 方
+BACK: （かた②）[名] 人（敬称）[sound:08-02.mp3]
+---
+FRONT: ランチ①
+BACK: [名] 午饭[sound:08-03.mp3]
+---
+FRONT: 中華料理
+BACK: （ちゅうかりょうり④）[名] 中餐，中国菜[sound:08-04.mp3]
+---
+FRONT: うーん/ううん
+BACK: [叹] ⓪嗯......（用于正在组织话语时）；②不（表示不同意）[sound:08-05.mp3]
+---
+FRONT: 可愛い
+BACK: （かわいい③）[い形] 可爱的[sound:08-06.mp3]
+---
+FRONT: あの人
+BACK: （あのひと②）[代] 那个人[sound:08-07.mp3]
+---
+FRONT: 弟／弟さん
+BACK:（おとうと④／おとうとさん⓪）[名] 弟弟[sound:08-08.mp3]
+---
+FRONT:妹／妹さん
+BACK:（いもうと④／いもうとさん⓪）[名] 妹妹[sound:08-09.mp3]
+---
+FRONT:姉／お姉さん
+BACK:（あね⓪／おねえさん②）[名] 姐姐[sound:08-10.mp3]
+---
+FRONT:兄／お兄さん
+BACK:（あに①／おにいさん②）[名] 哥哥[sound:08-11.mp3]
+---
+FRONT:おじ⓪／おじさん⓪
+BACK:[名] 叔叔，伯伯，舅舅[sound:08-12.mp3]
+---
+FRONT:おば⓪／おばさん⓪
+BACK:[名] 阿姨，姑姑，婶婶[sound:08-13.mp3]
+---
+FRONT:祖父／おじいさん②
+BACK:（そふ①）[名] 爷爷，外公（老爷爷[sound:08-14.mp3]）
+---
+FRONT:祖母／おばあさん②
+BACK:（そぼ①）[名] 奶奶，外婆（老奶奶)[sound:08-15.mp3]
+---
+FRONT: 家・内
+BACK: （うち⓪）[名] 家，内部[sound:08-16.mp3]
+---
+FRONT: 3人家族
+BACK: （さんにんかぞく⑤）[名] 三口之家[sound:08-17.mp3]
+---
+FRONT: 家族
+BACK: （かぞく①）[名] 家族，家人[sound:08-18.mp3]
+---
+FRONT: 綺麗
+BACK: （きれい①）[な形] 漂亮的，干净的[sound:08-19.mp3]
+---
+FRONT: 若い
+BACK: （わかい②）[い形] 年轻的[sound:08-20.mp3]
+---
+FRONT: でも
+BACK: （でも①）[连] 但是[sound:08-21.mp3]
+---
+FRONT: あまり⓪
+BACK: [副] （不）太......（与否定相呼应）[sound:08-22.mp3]
+---
+FRONT: 似る
+BACK: （にる⓪）[自动2] 像，似
+似てる（にてる⓪）[持续体][sound:08-23.mp3]
+---
+FRONT: かっこいい④
+BACK: [い形] 帅气的[sound:08-24.mp3]
+---
+FRONT: 4人家族
+BACK: （よにんかぞく④）[名] 四口之家[sound:08-25.mp3]
+---
+SUBDECK: 第09课
+---
+FRONT: 名前/お名前
+BACK: （なまえ⓪/おなまえ⓪）[名] 名字[sound:09-01.mp3]
+---
+FRONT: 何
+BACK: （なに①）[疑] 什么[sound:09-02.mp3]
+”何”单独使用时，读”なに”。后加”ですか”或者量词时读”なん”，如”何人（なんにん）””何歳（なんさい）”
+---
+FRONT: 春
+BACK: （はる①）[名] 春，春天[sound:09-03.mp3]
+---
+FRONT: 夏
+BACK: （なつ②）[名] 夏，夏天[sound:09-04.mp3]
+---
+FRONT: 秋
+BACK: （あき①）[名] 秋，秋天[sound:09-05.mp3]
+---
+FRONT: 冬
+BACK: （ふゆ②）[名] 冬，冬天[sound:09-06.mp3]
+---
+FRONT: 東
+BACK: （ひがし⓪③）[名] 东[sound:09-07.mp3]
+---
+FRONT: 西
+BACK: （にし⓪）[名] 西[sound:09-08.mp3]
+---
+FRONT: 南
+BACK: （みなみ⓪）[名] 南[sound:09-09.mp3]
+---
+FRONT: 北
+BACK: （きた⓪②）[名] 北[sound:09-10.mp3]
+---
+FRONT: りんご⓪
+BACK: （林檎）[名] 苹果[sound:09-11.mp3]
+---
+FRONT: 誰
+BACK: （だれ①）[疑] 谁[sound:09-12.mp3]
+---
+FRONT: いくら①
+BACK: [疑] 多少钱[sound:09-13.mp3]
+---
+FRONT: いくつ①
+BACK: [疑] 多少个；多少岁[sound:09-14.mp3]
+---
+FRONT: 何人
+BACK: （なんにん①）[疑] 多少人[sound:09-15.mp3]
+---
+FRONT: 花/お花
+BACK: （はな②/おはな⓪）[名] 花[sound:09-16.mp3]
+---
+FRONT: 花の子ルンルン
+BACK: （はなのこルンルン⑤）[专] 花仙子（动画片名）[sound:09-17.mp3]
+---
+FRONT: 好き
+BACK: （すき②）[な形] 喜欢的[sound:09-18.mp3]
+---
+FRONT: ドラえもん⓪
+BACK: [专] 哆啦A梦（动画片名）[sound:09-19.mp3]
+---
+FRONT: ワンワン①
+BACK: [副] 汪汪（狗叫声），哇哇（人大声哭泣声）；[名]（幼儿语）狗[sound:09-20.mp3]
+---
+FRONT: まあまあ③
+BACK: [副] 还可以，一般般[sound:09-21.mp3]
+---
+FRONT: 結構
+BACK: （けっこう①）[副] 很，相当[sound:09-22.mp3]
+---
+FRONT: いる⓪
+BACK: [自动2] 有，在（描述人或动物等有意志生命体的存在）
+います②[sound:09-23.mp3]
+---
+FRONT: 三つ下
+BACK: （みっつした⓪）小3岁
+三つ（みっつ③）［数］3个，3岁
+下（した⓪）［名］年龄小，年少[sound:09-24.mp3]
+---
+FRONT: また⓪
+BACK: [副] 又，再；又一次，再一次；同时，而且[sound:09-25.mp3]
+---
+FRONT: いちご⓪
+BACK: （苺）[名] 草莓[sound:09-26.mp3]
+---
+FRONT: 団子
+BACK: （だんご⓪）[名] 团子，米粉团；丸子[sound:09-27.mp3]
+---
+FRONT: さよ(う)なら⓪
+BACK: 再见。永别。[sound:09-28.mp3]
+---
+FRONT: では①
+BACK: [连] 那么[sound:09-29.mp3]
+---
+FRONT: バイバイ①
+BACK: 拜拜（用于告别）。(Bye-bye)[sound:09-30.mp3]
+---
+FRONT: みかん①
+BACK: （蜜柑）[名] 橘子[sound:09-31.mp3]
+---
+FRONT: レモン①
+BACK: [名] 柠檬 (lemon)[sound:09-32.mp3]
+---
+SUBDECK: 第10课
+---
+FRONT: これ⓪
+BACK: [代] 这，这个[sound:10-01.mp3]
+---
+FRONT: それ⓪
+BACK: [代] 那，那个（中距离）[sound:10-02.mp3]
+---
+FRONT: あれ⓪
+BACK: [代] 那，那个（远距离）[sound:10-03.mp3]
+---
+FRONT: どれ①
+BACK: [代] 哪个[sound:10-04.mp3]
+---
+FRONT: 分かる
+BACK: （わかる②）[自动1] 明白，懂得
+分かります（わかります④）[sound:10-05.mp3]
+---
+FRONT: 百
+BACK: （ひやく②）[数]（一）百[sound:10-06.mp3]
+---
+FRONT: 千
+BACK: （せん①）[数]（一）千[sound:10-07.mp3]
+---
+FRONT: 万
+BACK: （まん①）[数] 万[sound:10-08.mp3]
+---
+FRONT: 億
+BACK: （おく①）[数] 亿[sound:10-09.mp3]
+---
+FRONT: ～元
+BACK: （げん）[量] 元（人民币）[sound:10-10.mp3]
+---
+FRONT: ～円
+BACK: （えん）[量] 日元[sound:10-11.mp3]
+---
+FRONT: ～ドル
+BACK: [量] 美元 (dollar)[sound:10-12.mp3]
+---
+FRONT: よ
+BACK: [叹] 哟（用于打招呼）[sound:10-13.mp3]
+---
+FRONT: 新しい
+BACK: （あたらしい④）[い形] 新的[sound:10-14.mp3]
+---
+FRONT: シャツ①
+BACK: [名] 衬衫 (shirt)[sound:10-15.mp3]
+---
+FRONT: へえ⓪①
+BACK: [叹] 欸（用于震惊、感兴趣、疑惑时）[sound:10-16.mp3]
+---
+FRONT: 安い
+BACK: （やすい②）[い形] 便宜的[sound:10-17.mp3]
+---
+FRONT: 俺
+BACK: （おれ⓪）[代] 我（男性自称）[sound:10-18.mp3]
+---
+FRONT: この⓪
+BACK: [连体] 这个[sound:10-19.mp3]
+---
+FRONT: その⓪
+BACK: [连体] 那个（中距离）[sound:10-20.mp3]
+---
+FRONT: あの⓪
+BACK: [连体] 那个（远距离）[sound:10-21.mp3]
+---
+FRONT: どの①
+BACK: [连体] 哪个[sound:10-22.mp3]
+---
+FRONT: 高い
+BACK: （たかい②）[い形] 高的，贵的[sound:10-23.mp3]
+---
+FRONT: さすが⓪
+BACK: [副] 不愧是......[sound:10-24.mp3]
+---
+FRONT: 先輩
+BACK: （せんぱい⓪）[名] 先輩，前辈，学长，学姐[sound:10-25.mp3]
+---
+FRONT: 豚
+BACK: （ぶた⓪）[名] 猪[sound:10-26.mp3]
+---
+FRONT: お疲れ/お疲れ様
+BACK: （おつかれ⓪/おつかれさま⓪）辛苦了。[sound:10-27.mp3]
+---
+FRONT: ご飯
+BACK: （ごはん①）[名] 饭[sound:10-28.mp3]
+---
+FRONT: 行く
+BACK: （いく⓪）[自动1] 去，前往
+行きます（いきます③）[sound:10-29.mp3]
+---
+FRONT: おごる⓪
+BACK: [他动1] 请客
+おごります④[sound:10-30.mp3]
+---
+FRONT: 花屋
+BACK: （はなや②）[名] 花店[sound:10-31.mp3]
+---
+FRONT: 誕生日
+BACK: （たんじょうび③）[名] 生日[sound:10-32.mp3]
+---
+FRONT: 山
+BACK: （やま②）[名] 山[sound:10-33.mp3]
+---
+FRONT: すいか⓪
+BACK: [名] 西瓜[sound:10-34.mp3]
+---
+SUBDECK: 第10课后 数量词
+---
+FRONT:一つ
+BACK:ひとつ②[sound:10-post-01.mp3]
+---
+FRONT:二つ
+BACK:ふたつ③[sound:10-post-02.mp3]
+---
+FRONT:三つ
+BACK:みっつ③[sound:10-post-03.mp3]
+---
+FRONT:四つ
+BACK:よっつ③[sound:10-post-04.mp3]
+---
+FRONT:五つ
+BACK:いつつ②[sound:10-post-05.mp3]
+---
+FRONT:六つ
+BACK:むっつ③[sound:10-post-06.mp3]
+---
+FRONT:七つ
+BACK:ななつ②[sound:10-post-07.mp3]
+---
+FRONT:八つ
+BACK:やっつ③[sound:10-post-08.mp3]
+---
+FRONT:九つ
+BACK:ここのつ②[sound:10-post-09.mp3]
+---
+FRONT:十
+BACK:とお①[sound:10-post-10.mp3]
+---
+FRONT: 1人  
+BACK: ひとり②[sound:10-post-11.mp3]
+---  
+FRONT: 2人  
+BACK: ふたり③[sound:10-post-12.mp3]
+---  
+FRONT: 3人  
+BACK: さんにん③  [sound:10-post-13.mp3]
+---  
+FRONT: 4人  
+BACK: よにん②  [sound:10-post-14.mp3]
+---  
+FRONT: 5人  
+BACK: ごにん②  [sound:10-post-15.mp3]
+---  
+FRONT: 6人  
+BACK: ろくにん②  [sound:10-post-16.mp3]
+---  
+FRONT: 7人  
+BACK: しちにん／ななにん②  [sound:10-post-17.mp3]
+---  
+FRONT: 8人  
+BACK: はちにん②  [sound:10-post-18.mp3]
+---  
+FRONT: 9人  
+BACK: くにん②／きゅうにん①  [sound:10-post-19.mp3]
+---  
+FRONT: 10人  
+BACK: じゅうにん①  [sound:10-post-20.mp3]
+---  
+FRONT: 16人  
+BACK: じゅうろくにん④  [sound:10-post-21.mp3]
+---  
+FRONT: 20人  
+BACK: にじゅうにん②①  [sound:10-post-22.mp3]
+---  
+FRONT: 何人  
+BACK: なんにん①  [sound:10-post-23.mp3]
+---  
+FRONT: 1月  
+BACK: いちがつ④  [sound:10-post-24.mp3]
+---  
+FRONT: 2月  
+BACK: にがつ③  [sound:10-post-25.mp3]
+---  
+FRONT: 3月  
+BACK: さんがつ①  [sound:10-post-26.mp3]
+---  
+FRONT: 4月  
+BACK: しがつ③  [sound:10-post-27.mp3]
+---  
+FRONT: 5月  
+BACK: ごがつ①  [sound:10-post-28.mp3]
+---  
+FRONT: 6月  
+BACK: ろくがつ④  [sound:10-post-29.mp3]
+---  
+FRONT: 7月  
+BACK: しちがつ④  [sound:10-post-30.mp3]
+---  
+FRONT: 8月  
+BACK: はちがつ④  [sound:10-post-31.mp3]
+---  
+FRONT: 9月  
+BACK: くがつ①  [sound:10-post-32.mp3]
+---  
+FRONT: 10月  
+BACK: じゅうがつ④  [sound:10-post-33.mp3]
+---  
+FRONT: 11月  
+BACK: じゅういちがつ⑥  [sound:10-post-34.mp3]
+---  
+FRONT: 12月  
+BACK: じゅうにがつ⑤  [sound:10-post-35.mp3]
+---  
+FRONT: 何月  
+BACK: なんがつ①  [sound:10-post-36.mp3]
+---  
+FRONT: 1か月  
+BACK: いっかげつ<img src="-3.png">  [sound:10-post-37.mp3]
+---  
+FRONT: 2か月  
+BACK: にかげつ<img src="-3.png">  [sound:10-post-38.mp3]
+---  
+FRONT: 3か月  
+BACK: さんかげつ<img src="-3.png">  [sound:10-post-39.mp3]
+---  
+FRONT: 4か月  
+BACK: よんかげつ<img src="-3.png">  [sound:10-post-40.mp3]
+---  
+FRONT: 5か月  
+BACK: ごかげつ<img src="-3.png">  [sound:10-post-41.mp3]
+---  
+FRONT: 6か月  
+BACK: ろっかげつ<img src="-3.png">  [sound:10-post-42.mp3]
+---  
+FRONT: 7か月  
+BACK: ななかげつ<img src="-3.png">  [sound:10-post-43.mp3]
+---  
+FRONT: 8か月  
+BACK: はちかげつ／はっかげつ<img src="-3.png">  [sound:10-post-44.mp3]
+---  
+FRONT: 9か月  
+BACK: きゅうかげつ<img src="-3.png">  [sound:10-post-45.mp3]
+---  
+FRONT: 10か月  
+BACK: じっかげつ／じゅっかげつ<img src="-3.png">  [sound:10-post-46.mp3]
+---  
+FRONT: 11か月  
+BACK: じゅういっかげつ<img src="-3.png">  [sound:10-post-47.mp3]
+---  
+FRONT: 12か月  
+BACK: じゅうにかげつ<img src="-3.png">  [sound:10-post-48.mp3]
+---  
+FRONT: 何か月  
+BACK: なんかげつ<img src="-3.png"> [sound:10-post-49.mp3]
+---  
+FRONT: 1日  
+BACK: ついたち④  [sound:10-post-50.mp3]
+---  
+FRONT: 2日  
+BACK: ふつか⓪ [sound:10-post-51.mp3] 
+---  
+FRONT: 3日  
+BACK: みっか⓪  [sound:10-post-52.mp3]
+---  
+FRONT: 4日  
+BACK: よっか⓪  [sound:10-post-53.mp3]
+---  
+FRONT: 5日  
+BACK: いつか⓪  [sound:10-post-54.mp3]
+---  
+FRONT: 6日  
+BACK: むいか⓪  [sound:10-post-55.mp3]
+---  
+FRONT: 7日  
+BACK: なのか⓪  [sound:10-post-56.mp3]
+---  
+FRONT: 8日  
+BACK: ようか⓪  [sound:10-post-57.mp3]
+---  
+FRONT: 9日  
+BACK: ここのか④  [sound:10-post-58.mp3]
+---  
+FRONT: 10日  
+BACK: とおか⓪  [sound:10-post-59.mp3]
+---  
+FRONT: 11日  
+BACK: じゅういちにち⑥  [sound:10-post-60.mp3]
+---  
+FRONT: 12日  
+BACK: じゅうににち⑤  [sound:10-post-61.mp3]
+---  
+FRONT: 13日  
+BACK: じゅうさんにち③①  [sound:10-post-62.mp3]
+---  
+FRONT: 14日  
+BACK: じゅう-よっか①-⓪  [sound:10-post-63.mp3]
+---  
+FRONT: 15日  
+BACK: じゅう-ごにち①-①  [sound:10-post-64.mp3]
+---  
+FRONT: 16日  
+BACK: じゅうろくにち⑥  [sound:10-post-65.mp3]
+---  
+FRONT: 17日  
+BACK: じゅうしちにち⑥／じゅうななにち④⑥[sound:10-post-66.mp3]
+---  
+FRONT: 18日  
+BACK: じゅうはちにち⑥[sound:10-post-67.mp3]
+---  
+FRONT: 19日  
+BACK: じゅう-くにち①-①  [sound:10-post-68.mp3]
+---  
+FRONT: 20日  
+BACK: はつか⓪[sound:10-post-69.mp3]
+---  
+FRONT: 21日  
+BACK: にじゅう-いちにち①-④  [sound:10-post-70.mp3]
+---  
+FRONT: 22日  
+BACK: にじゅう-ににち①-③  [sound:10-post-71.mp3]
+---  
+FRONT: 23日  
+BACK: にじゅう-さんにち①-①  [sound:10-post-72.mp3]
+---  
+FRONT: 24日  
+BACK: にじゅう-よっか①-⓪[sound:10-post-73.mp3]
+---  
+FRONT: 25日  
+BACK: にじゅう-ごにち①-①  [sound:10-post-74.mp3]
+---  
+FRONT: 26日  
+BACK: にじゅう-ろくにち①-④  [sound:10-post-75.mp3]
+---  
+FRONT: 27日  
+BACK: にじゅう-しちにち①-④  [sound:10-post-76.mp3]
+---  
+FRONT: 28日  
+BACK: にじゅう-はちにち①-④  [sound:10-post-77.mp3]
+---  
+FRONT: 29日  
+BACK: にじゅう-くにち①-①  [sound:10-post-78.mp3]
+---  
+FRONT: 30日  
+BACK: さんじゅうにち③  [sound:10-post-79.mp3]
+---  
+FRONT: 31日  
+BACK: さんじゅう-いちにち①-④  [sound:10-post-80.mp3]
+---  
+FRONT: 何日  
+BACK: なんにち①  [sound:10-post-81.mp3]
+---  
+FRONT: 1時  
+BACK: いちじ②  [sound:10-post-82.mp3]
+---  
+FRONT: 2時  
+BACK: にじ①  [sound:10-post-83.mp3]
+---  
+FRONT: 3時  
+BACK: さんじ①  [sound:10-post-84.mp3]
+---  
+FRONT: 4時  
+BACK: よじ①  [sound:10-post-85.mp3]
+---  
+FRONT: 5時  
+BACK: ごじ①  [sound:10-post-86.mp3]
+---  
+FRONT: 6時  
+BACK: ろくじ②  [sound:10-post-87.mp3]
+---  
+FRONT: 7時  
+BACK: しちじ②  [sound:10-post-88.mp3]
+---  
+FRONT: 8時  
+BACK: はちじ②  [sound:10-post-89.mp3]
+---  
+FRONT: 9時  
+BACK: くじ①  [sound:10-post-90.mp3]
+---  
+FRONT: 10時  
+BACK: じゅうじ①  [sound:10-post-91.mp3]
+---  
+FRONT: 11時  
+BACK: じゅういちじ④  [sound:10-post-92.mp3]
+---  
+FRONT: 12時  
+BACK: じゅうにじ③  [sound:10-post-93.mp3]
+---  
+FRONT: 零時  
+BACK: れいじ①  [sound:10-post-94.mp3]
+---  
+FRONT: 何時  
+BACK: なんじ①  [sound:10-post-95.mp3]
+---  
+FRONT: 1時半  
+BACK: いちじはん<img src="-2.png"> [sound:10-post-96.mp3]  
+---  
+FRONT: 3時半  
+BACK: さんじはん<img src="-2.png">  [sound:10-post-97.mp3]
+---  
+FRONT: 9時半  
+BACK: くじはん<img src="-2.png">  [sound:10-post-98.mp3]
+---  
+FRONT: 23時半  
+BACK: にじゅう-さんじはん①-<img src="-2.png">  [sound:10-post-99.mp3]
+---  
+FRONT: 1時間  
+BACK: いちじかん<img src="-3.png"> [sound:10-post-100.mp3]
+---  
+FRONT: 10時間  
+BACK: じゅうじかん<img src="-3.png">  [sound:10-post-101.mp3]
+---  
+FRONT: 24時間  
+BACK: にじゅう-よじかん①-<img src="-3.png">  [sound:10-post-102.mp3]
+---  
+FRONT: 何時間  
+BACK: なんじかん<img src="-3.png"> [sound:10-post-103.mp3]
+---  
+FRONT: 1分  
+BACK: いっぷん①  [sound:10-post-104.mp3]
+---  
+FRONT: 2分  
+BACK: にふん①  [sound:10-post-105.mp3]
+---  
+FRONT: 3分  
+BACK: さんぷん①  [sound:10-post-106.mp3]
+---  
+FRONT: 4分  
+BACK: よんぷん①  [sound:10-post-107.mp3]
+---  
+FRONT: 5分  
+BACK: ごふん①  [sound:10-post-108.mp3]
+---  
+FRONT: 6分  
+BACK: ろっぷん①  [sound:10-post-109.mp3]
+---  
+FRONT: 7分  
+BACK: ななふん②  [sound:10-post-110.mp3]
+---  
+FRONT: 8分  
+BACK: はちふん②／はっぷん①  [sound:10-post-111.mp3]
+---  
+FRONT: 9分  
+BACK: きゅうふん①  [sound:10-post-112.mp3]
+---  
+FRONT: 10分  
+BACK: じっぷん／じゅっぷん①  [sound:10-post-113.mp3]
+---  
+FRONT: 15分  
+BACK: じゅう-ごふん①-①  [sound:10-post-114.mp3]
+---  
+FRONT: 20分  
+BACK: にじっぷん／にじゅっぷん②①  [sound:10-post-115.mp3]
+---  
+FRONT: 何分  
+BACK: なんぷん①  [sound:10-post-116.mp3]
+---  
+FRONT: 1枚  
+BACK: いちまい②  [sound:10-post-117.mp3]
+---  
+FRONT: 2枚  
+BACK: にまい①  [sound:10-post-118.mp3]
+---  
+FRONT: 3枚  
+BACK: さんまい①  [sound:10-post-119.mp3]
+---  
+FRONT: 4枚  
+BACK: よんまい①⓪ [sound:10-post-120.mp3]
+---  
+FRONT: 5枚  
+BACK: ごまい⓪ [sound:10-post-121.mp3]
+---  
+FRONT: 6枚  
+BACK: ろくまい②  [sound:10-post-122.mp3]
+---  
+FRONT: 7枚  
+BACK: ななまい／しちまい②  [sound:10-post-123.mp3]
+---  
+FRONT: 8枚  
+BACK: はちまい②  [sound:10-post-124.mp3]
+---  
+FRONT: 9枚  
+BACK: きゅうまい①  [sound:10-post-125.mp3]
+---  
+FRONT: 10枚  
+BACK: じゅうまい①  [sound:10-post-126.mp3]
+---  
+FRONT: 20枚  
+BACK: にじゅうまい②  [sound:10-post-127.mp3]
+---  
+FRONT: 25枚  
+BACK: にじゅう-ごまい①-⓪  [sound:10-post-128.mp3]
+---  
+FRONT: 何枚  
+BACK: なんまい①  [sound:10-post-129.mp3]
+---  
+FRONT: 1本  
+BACK: いっぽん① [sound:10-post-130.mp3]
+---  
+FRONT: 2本  
+BACK: にほん①  [sound:10-post-131.mp3]
+---  
+FRONT: 3本  
+BACK: さんぼん①  [sound:10-post-132.mp3]
+---  
+FRONT: 4本  
+BACK: よんほん①  [sound:10-post-133.mp3]
+---  
+FRONT: 5本  
+BACK: ごほん⓪ [sound:10-post-134.mp3]
+---  
+FRONT: 6本  
+BACK: ろっぽん①／ろくほん②  [sound:10-post-135.mp3]
+---  
+FRONT: 7本  
+BACK: ななほん②  [sound:10-post-136.mp3]
+---  
+FRONT: 8本  
+BACK: はちほん②／はっぽん①  [sound:10-post-137.mp3]
+---  
+FRONT: 9本  
+BACK: きゅうほん①  [sound:10-post-138.mp3]
+---  
+FRONT: 10本  
+BACK: じっぽん／じゅっぽん①  [sound:10-post-139.mp3]
+---  
+FRONT: 何本  
+BACK: なんぼん①  [sound:10-post-140.mp3]
+---  
+FRONT: 1回  
+BACK: いっかい③  [sound:10-post-141.mp3]
+---  
+FRONT: 2回  
+BACK: にかい②  [sound:10-post-142.mp3]
+---  
+FRONT: 3回  
+BACK: さんかい③  [sound:10-post-143.mp3]
+---  
+FRONT: 4回  
+BACK: よんかい③①  [sound:10-post-144.mp3]
+---  
+FRONT: 5回  
+BACK: ごかい②  [sound:10-post-145.mp3]
+---  
+FRONT: 6回  
+BACK: ろっかい③  [sound:10-post-146.mp3]
+---  
+FRONT: 7回  
+BACK: ななかい③②  [sound:10-post-147.mp3]
+---  
+FRONT: 8回  
+BACK: はちかい／はっかい③  [sound:10-post-148.mp3]
+---  
+FRONT: 9回  
+BACK: きゅうかい③①  [sound:10-post-149.mp3]
+---  
+FRONT: 10回  
+BACK: じっかい／じゅっかい③  [sound:10-post-150.mp3]
+---  
+FRONT: 何回  
+BACK: なんかい①③  [sound:10-post-151.mp3]
+---  
+FRONT: 1階  
+BACK: いっかい⓪[sound:10-post-152.mp3]
+---  
+FRONT: 2階  
+BACK: にかい⓪ [sound:10-post-153.mp3]
+---  
+FRONT: 3階  
+BACK: さんがい⓪ [sound:10-post-154.mp3]
+---  
+FRONT: 4階  
+BACK: よんかい⓪  [sound:10-post-155.mp3]
+---  
+FRONT: 5階  
+BACK: ごかい⓪  [sound:10-post-156.mp3]
+---  
+FRONT: 6階  
+BACK: ろっかい⓪  [sound:10-post-157.mp3]
+---  
+FRONT: 7階  
+BACK: ななかい⓪  [sound:10-post-158.mp3]
+---  
+FRONT: 8階  
+BACK: はちかい／はっかい⓪  [sound:10-post-159.mp3]
+---  
+FRONT: 9階  
+BACK: きゅうかい⓪[sound:10-post-160.mp3]
+---  
+FRONT: 10階  
+BACK: じっかい⓪／じゅっかい⓪[sound:10-post-161.mp3]
+---  
+FRONT: 18階  
+BACK: じゅうはちかい⓪／じゅうはっかい⓪ [sound:10-post-162.mp3]
+---  
+FRONT: 30階  
+BACK: さんじっかい⓪③／さんじゅっかい⓪③  [sound:10-post-163.mp3]
+---  
+FRONT: 何階  
+BACK: なんがい⓪／なんかい⓪  [sound:10-post-164.mp3]
+---
+FRONT:秒
+BACK:びょう 秒（时间）[sound:10-post-175.mp3]
+---
+FRONT: 台
+BACK:だい 台/辆（机械、车辆） [sound:10-post-165.mp3]
+---
+FRONT:冊
+BACK:さつ 本/册（书、笔记本等）[sound:10-post-166.mp3]
+---
+FRONT:歳
+BACK:さい 岁（年龄）[sound:10-post-167.mp3]
+---
+FRONT:着
+BACK:ちゃく 件（衣服）[sound:10-post-168.mp3]
+---
+FRONT:個
+BACK:こ 个[sound:10-post-169.mp3]
+---
+FRONT:杯
+BACK:はい 杯[sound:10-post-170.mp3]
+---
+FRONT:匹
+BACK:ひき 只/条（小动物，如猫、狗、昆虫、鱼等）[sound:10-post-171.mp3]
+---
+FRONT:頭
+BACK:とう 头/匹（大动物，如牛、马、象等）[sound:10-post-172.mp3]
+---
+FRONT:羽
+BACK:わ 只（鸟、兔)[sound:10-post-173.mp3]
+---
+FRONT:番
+BACK:ばん 号（顺序）[sound:10-post-174.mp3]
+---
+SUBDECK: 第11课
+---
+FRONT: ペン①
+BACK: [名] 笔，钢笔（pen）[sound:11-01.mp3]
+---
+FRONT: 誕生日プレゼント
+BACK: （たんじょうび プレゼント⑦）[名] 生日礼物[sound:11-02.mp3]
+---
+FRONT: プレゼント②
+BACK: [名] 礼物（present）[sound:11-03.mp3]
+---
+FRONT: だめ②
+BACK: [な形] 不行，不可以[sound:11-04.mp3]
+---
+FRONT: おめでとう⓪（-ございます<img src="-2.png">）
+BACK: 恭喜。[sound:11-05.mp3]
+---
+FRONT: 大好き
+BACK: （だいすき①）[な形] 很爱好，非常喜欢[sound:11-06.mp3]
+---
+FRONT: だから①
+BACK: [连] 所以，因此[sound:11-07.mp3]
+---
+FRONT: 嬉しい
+BACK: （うれしい③）[い形] 高兴的[sound:11-08.mp3]
+---
+FRONT: 本屋
+BACK: （ほんや①）[名] 书店[sound:11-09.mp3]
+---
+FRONT: 毎日
+BACK: （まいにち①）[名] 每日，每天[sound:11-10.mp3]
+---
+FRONT: 時計
+BACK: （とけい⓪）[名] 钟表[sound:11-11.mp3]
+---
+FRONT: 携帯（電話）
+BACK: （けいたい⓪（でんわ⑤））[名] 手机[sound:11-12.mp3]
+---
+FRONT: 辞書
+BACK: （じしょ①）[名] 字典，词典[sound:11-13.mp3]
+---
+FRONT: 英語
+BACK: （えいご⓪）[名] 英语[sound:11-14.mp3]
+---
+FRONT: 北海道
+BACK: （ほっかいどう③）[专] 北海道[sound:11-15.mp3]
+---
+FRONT: お土産
+BACK: （おみやげ⓪）[名] 礼物，特产[sound:11-16.mp3]
+---
+FRONT: 白い
+BACK: （しろい②）[い形] 白色的[sound:11-17.mp3]
+---
+FRONT: 恋人
+BACK: （こいびと⓪）[名] 恋人[sound:11-18.mp3]
+---
+FRONT: クッキー①
+BACK: [名] 饼干（cookie）[sound:11-19.mp3]
+---
+FRONT: 指輪
+BACK: （ゆびわ⓪）[名] 戒指[sound:11-20.mp3]
+---
+FRONT: いや①
+BACK: [叹] 哎呀（表示吃惊或感动）；不（表示否定回答，意同"いいえ"）[sound:11-21.mp3]
+---
+FRONT: 黒い
+BACK: （くろい②）[い形] 黑色的[sound:11-22.mp3]
+---
+FRONT: ボールペン⓪
+BACK: [名] 圆珠笔（ball pen）[sound:11-23.mp3]
+---
+FRONT: ～番
+BACK: （ばん）[量] ......号[sound:11-24.mp3]
+---
+FRONT: ノート①
+BACK: [名] 笔记本（note）[sound:11-25.mp3]
+---
+FRONT: 手帳
+BACK: （てちょう⓪）[名] (小型)笔记本[sound:11-26.mp3]
+---
+FRONT: 鉛筆
+BACK: （えんぴつ⓪）[名] 铅笔[sound:11-27.mp3]
+---
+FRONT: 財布
+BACK: （さいふ⓪）[名] 钱包[sound:11-28.mp3]
+---
+FRONT: 鍵
+BACK: (かぎ②) [名] 钥匙[sound:11-29.mp3]
+---
+FRONT: 鏡
+BACK: （かがみ③②）[名] 镜子[sound:11-30.mp3]
+---
+FRONT: 電子辞書
+BACK: （でんしじしょ④）[名] 电子词典[sound:11-31.mp3]
+---
+FRONT: いただきます⑤（頂きます）
+BACK: 我就收下了。[sound:11-32.mp3]
+---
+SUBDECK: 第12课
+---
+FRONT: ここ⓪
+BACK: [代] 这里，这儿[sound:12-01.mp3]
+---
+FRONT: そこ⓪
+BACK: [代] 那里，那儿（中距离）[sound:12-02.mp3]
+---
+FRONT: あそこ⓪
+BACK: [代] 那里，那儿（远距离）[sound:12-03.mp3]
+---
+FRONT: こちら⓪
+BACK: [代] 这儿，这边[sound:12-04.mp3]
+---
+FRONT: そちら⓪
+BACK: [代] 那儿，那边（中距离）[sound:12-05.mp3]
+---
+FRONT: あちら⓪
+BACK: [代] 那儿，那边（远距离）[sound:12-06.mp3]
+---
+FRONT: どちら①
+BACK: [疑] 哪儿，哪边[sound:12-07.mp3]
+---
+FRONT: こっち⓪
+BACK: [代] 这儿，这边（こちら的随意说法）[sound:12-08.mp3]
+---
+FRONT: そっち⓪
+BACK: [代] 那儿，那边（そちら的随意说法）[sound:12-09.mp3]
+---
+FRONT: あっち⓪
+BACK: [代] 那儿，那边（あちら的随意说法）[sound:12-10.mp3]
+---
+FRONT: どっち①
+BACK: [疑] 哪儿，哪边（どちら的随意说法）[sound:12-11.mp3]
+---
+FRONT: トイレ①
+BACK: [名] 厕所（toilet）[sound:12-12.mp3]
+---
+FRONT: デパート②
+BACK: [名] 百货商店（department）[sound:12-13.mp3]
+---
+FRONT: 部屋
+BACK: （へや②）[名] 房间[sound:12-14.mp3]
+---
+FRONT: こちらこそ④
+BACK: 我才是。我才应该这么说。[sound:12-15.mp3]
+---
+FRONT: 銀行
+BACK: （ぎんこう⓪）[名] 银行[sound:12-16.mp3]
+---
+FRONT: 郵便局
+BACK: （ゆうびんきょく③）[名] 邮局[sound:12-17.mp3]
+---
+FRONT: 食堂
+BACK: （しょくどう⓪）[名] 食堂[sound:12-18.mp3]
+---
+FRONT: お待たせ
+BACK: （おまたせ⓪）（-しました<img src="-3.png">）让你（们）/您久等了。[sound:12-19.mp3]
+---
+FRONT: 紹介
+BACK: （しょうかい⓪）[名/他动3] 介绍[sound:12-20.mp3]
+---
+FRONT: 美人
+BACK: （びじん①）[名] 美人[sound:12-21.mp3]
+---
+FRONT: 本当に
+BACK: （ほんとうに⓪）[副] 真的[sound:12-22.mp3]
+---
+FRONT: ～過ぎ
+BACK: （すぎ）过了......，......多[sound:12-23.mp3]
+---
+FRONT: さ（あ）①
+BACK: [叹] 喂，哎（表示劝诱、催促，或者感到吃惊、困惑等）[sound:12-24.mp3]
+---
+FRONT: 兄弟
+BACK: （きょうだい①）[名] 兄弟姐妹，同胞手足[sound:12-25.mp3]
+---
+FRONT: 両親
+BACK: （りょうしん①）[名] 双亲，父母[sound:12-26.mp3]
+---
+FRONT: 親
+BACK: （おや②）[名] 父母[sound:12-27.mp3]
+---
+FRONT: 地下鉄
+BACK: （ちかてつ⓪）[名] 地铁[sound:12-28.mp3]
+---
+FRONT: 駅
+BACK: （えき①）[名] 车站[sound:12-29.mp3]
+---
+FRONT: 店/お店
+BACK: （みせ②）/（おみせ⓪）[名] 商店[sound:12-30.mp3]
+---
+FRONT: 図書館
+BACK: （としょかん②）[名] 图书馆[sound:12-31.mp3]
+---
+FRONT: スーパー①/スーパーマーケット⑤
+BACK: [名] 超市（super marker）[sound:12-32.mp3]
+---
+FRONT: バス停
+BACK: （バスてい⓪）[名] 公交车站[sound:12-33.mp3]
+---
+FRONT: 喫茶店
+BACK: （きっさてん⓪③）/カフェ① [名] 咖啡店（café（法））[sound:12-34.mp3]
+---
+FRONT: 売店
+BACK: （ばいてん⓪）[名] 小卖部[sound:12-35.mp3]
+---
+FRONT: マンション①
+BACK: [名] 高级公寓（mansion）[sound:12-36.mp3]
+---
+FRONT: 寮
+BACK: （りょう①）[名] 宿舍[sound:12-37.mp3]
+---
+FRONT: アパート②
+BACK: [名] 公寓（apartment）[sound:12-38.mp3]
+---
+FRONT: コンビニ⓪
+BACK: [名] 便利店（convenience store）[sound:12-39.mp3]
+---
+SUBDECK: 第13课
+---
+FRONT: あら①⓪
+BACK: [叹] 哎呀，咦（吃惊时发出的声音，多为女性使用）[sound:13-01.mp3]
+---
+FRONT: 散歩
+BACK: （さんぽ⓪）[名/自动3] 散步[sound:13-02.mp3]
+---
+FRONT: 電車
+BACK: （でんしゃ⓪①）[名] 电车[sound:13-03.mp3]
+---
+FRONT: 京都
+BACK: （きょうと①）[专] 京都[sound:13-04.mp3]
+---
+FRONT: 大阪
+BACK: （おおさか⓪）[专] 大阪[sound:13-05.mp3]
+---
+FRONT: 会社
+BACK: （かいしゃ⓪）[名] 公司[sound:13-06.mp3]
+---
+FRONT: 家
+BACK: （いえ②）[名] 家[sound:13-07.mp3]
+---
+FRONT: 帰る
+BACK: （かえる①）[自动1] 回，回去
+帰ります（かえります④）[sound:13-08.mp3]
+---
+FRONT: 東京
+BACK: （とうきょう⓪）[专] 东京[sound:13-09.mp3]
+---
+FRONT: 飛ぶ
+BACK: （とぶ⓪）[自动1] 飞，飞翔；飞往，乘飞机去
+飛びます（とびます③）[sound:13-10.mp3]
+---
+FRONT: 出かける
+BACK: （でかける⓪）[自动2] 出门
+出かけます（でかけます④）[sound:13-11.mp3]
+---
+FRONT: 案内
+BACK: （あんない③）[名/他动3] 向导，导游[sound:13-12.mp3]
+---
+FRONT: する⓪
+BACK: [他动3] 做，干，办
+します②[sound:13-13.mp3]
+---
+FRONT: 旅行
+BACK: （りょこう⓪）[名/自动3] 旅行[sound:13-14.mp3]
+---
+FRONT: 仕事
+BACK: （しごと⓪）[名] 工作[sound:13-15.mp3]
+---
+FRONT: 掃除
+BACK: （そうじ⓪）[名/他动3] 扫除[sound:13-16.mp3]
+---
+FRONT: 会議
+BACK: （かいぎ①）[名/自动3] 会议[sound:13-17.mp3]
+---
+FRONT: 卒業
+BACK: （そつぎょう⓪）[名/自动3] 毕业[sound:13-18.mp3]
+---
+FRONT: 出る
+BACK: （でる①）[自动2] 出，离开
+出ます（でます②）[sound:13-19.mp3]
+---
+FRONT: ～分
+BACK: （ふん）[量] ......分，......分钟[sound:13-20.mp3]
+---
+FRONT: 10分
+BACK: （じゅっぷん/じっぷん①）10分，10分钟[sound:13-21.mp3]
+---
+FRONT: 数量词＋ぐらい<img src="-3.png">
+BACK: 大约......，......左右[sound:13-22.mp3]
+---
+FRONT: 遅れる
+BACK: （おくれる⓪）[自动2] 迟，迟到
+遅れます（おくれます④）[sound:13-23.mp3]
+---
+FRONT: 大丈夫
+BACK: （だいじょうぶ③）[な形] 没事，没关系，没问题[sound:13-24.mp3]
+---
+FRONT: もうちょっと⓪－①
+BACK: [副] 再......一点儿[sound:13-25.mp3]
+由”もう”和”ちょっと”构成的复合词，前后两个部分的声调分别是もう⓪＋ちょっと①
+---
+FRONT: 来る
+BACK: （くる①）[自动3] 来
+来ます（きます②）[sound:13-26.mp3]
+---
+FRONT: バス①
+BACK: [名] 公交车（bus）[sound:13-27.mp3]
+---
+FRONT: 何番
+BACK: （なんばん①）[疑] 几号[sound:13-28.mp3]
+---
+FRONT: タクシー①
+BACK: [名] 的士，出租车（taxi）[sound:13-29.mp3]
+---
+FRONT: 日
+BACK: （ひ）
+[名] ⓪太阳；天，日子；①特定的日子[sound:13-30.mp3]
+---
+FRONT: 少し
+BACK: （すこし②）[副] 稍微，一点儿[sound:13-31.mp3]
+---
+FRONT: 椅子
+BACK: （いす⓪）[名] 椅子[sound:13-32.mp3]
+---
+FRONT: 丈夫
+BACK: （じょうぶ⓪）[な形] 健康，结实[sound:13-33.mp3]
+---
+FRONT: 休み
+BACK: （やすみ③）[名] 休息，休假，假日[sound:13-34.mp3]
+---
+FRONT: 公園
+BACK: （こうえん⓪）[名] 公园[sound:13-35.mp3]
+---
+SUBDECK: 第14课
+---
+FRONT: 日本語
+BACK: （にほんご⓪）[名] 日语[sound:14-01.mp3]
+---
+FRONT: 雑誌
+BACK: （ざっし⓪）[名] 杂志[sound:14-02.mp3]
+---
+FRONT: どう①
+BACK: [副] 怎样，怎么[sound:14-03.mp3]
+---
+FRONT: 難しい
+BACK: （むずかしい④）[い形] 难的，艰深，艰难，复杂[sound:14-04.mp3]
+---
+FRONT: 気分
+BACK: （きぶん①）[名] 心情，情绪；身体状况[sound:14-05.mp3]
+---
+FRONT: 薬
+BACK: （くすり⓪）[名] 药[sound:14-06.mp3]
+---
+FRONT: 朝
+BACK: （あさ①）[名] 早晨[sound:14-07.mp3]
+---
+FRONT: 昼
+BACK: （ひる②）[名] 白昼，中午[sound:14-08.mp3]
+---
+FRONT: 晚
+BACK: （ばん⓪）[名] 傍晚，晚，晚上[sound:14-09.mp3]
+---
+FRONT: 一日
+BACK: （いちにち④）[名] 一日，一天，整天[sound:14-10.mp3]
+---
+FRONT: 飲む
+BACK: （のむ①）[他动1] 喝，饮；服药[sound:14-11.mp3]
+---
+FRONT: メモ①
+BACK: [名/他动3] 笔记，记录（memo）[sound:14-12.mp3]
+---
+FRONT: 如何
+BACK: （いかが②）[副] 怎样，如何[sound:14-13.mp3]
+---
+FRONT: お昼/昼ご飯
+BACK: （おひる②）/（ひるごはん③）[名] 午饭[sound:14-14.mp3]
+---
+FRONT: 料理
+BACK: （りょうり①）[名] 菜肴，料理[sound:14-15.mp3]
+---
+FRONT: 注文
+BACK: （ちゅうもん⓪）[名/自他动3] 订做，订购，订货，提要求（点菜，下单）[sound:14-16.mp3]
+---
+FRONT: 飲み物
+BACK: （のみもの②③）[名] 饮料，酒水[sound:14-17.mp3]
+---
+FRONT: 一度
+BACK: （いちど③）[名] 一次，一回[sound:14-18.mp3]
+---
+FRONT: 一回
+BACK: （いっかい③）[名] 一回，一次[sound:14-19.mp3]
+---
+FRONT: 月
+BACK: （つき②）[名] 月亮；一个月；月份[sound:14-20.mp3]
+---
+FRONT: つまらない③
+BACK: [い形] 无聊[sound:14-21.mp3]
+---
+FRONT: 物
+BACK: (もの②) [名] 东西，物品[sound:14-22.mp3]
+---
+FRONT: 気持ち
+BACK: （きもち⓪）[名] 心情，心意[sound:14-23.mp3]
+---
+FRONT: 中国語
+BACK: （ちゅうごくご⓪）[名] 中文[sound:14-24.mp3]
+---
+FRONT: どうも①
+BACK: [副] 实在，太（加在表达感谢或歉意的词语前，以加强语气；也可单独使用表示简单的致意）[sound:14-25.mp3]
+---
+FRONT: どう いたしまして①-④
+BACK: 不用谢。[sound:14-26.mp3]
+---
+FRONT: すごい②
+BACK: [い形] 惊人的，厉害的[sound:14-27.mp3]
+---
+FRONT: 雰囲気
+BACK: （ふんいき③）[名] 氛围，气氛[sound:14-28.mp3]
+---
+FRONT: 一つ
+BACK: （ひとつ②）[数] 1 个；1 岁[sound:14-29.mp3]
+---
+FRONT: 煎餅
+BACK: （せんべい①）[名] 薄脆饼干[sound:14-30.mp3]
+---
+FRONT: 桃
+BACK: （もも⓪）[名] 桃子[sound:14-31.mp3]
+---
+FRONT: コーヒー③
+BACK: [名] 咖啡（coffee）[sound:14-32.mp3]
+---
+FRONT: 入れる
+BACK: （いれる⓪）[他动2] 放进，装入，加入；沏，泡[sound:14-33.mp3]
+---
+FRONT: いつも①
+BACK: [名/副] 平时，总是[sound:14-34.mp3]
+---
+FRONT: ～なら
+BACK: 如果......[sound:14-35.mp3]
+---
+FRONT: 食べる
+BACK: （たべる②）[他动2] 吃[sound:14-36.mp3]
+---
+FRONT: ダイエット①
+BACK: [名/自动3] 减肥（diet）[sound:14-37.mp3]
+---
+FRONT: 違う
+BACK: （ちがう⓪）[自动1] 不是，不一致[sound:14-38.mp3]
+---
+FRONT: 食事
+BACK: （しょくじ⓪）[名/自动3] 吃饭[sound:14-39.mp3]
+---
+FRONT: 出張
+BACK: （しゅっちょう⓪）[名/自动3] 出差[sound:14-40.mp3]
+---
+FRONT: 箱
+BACK: （はこ⓪）[名] 箱，盒，匣；车厢[sound:14-41.mp3]
+---
+FRONT: ミルク①
+BACK: [名] 牛奶（milk）[sound:14-42.mp3]
+---
+FRONT: 豆腐
+BACK: （とうふ⓪③）[名] 豆腐[sound:14-43.mp3]
+---
+FRONT: 蕎麦
+BACK: （そば①）[名] 荞麦面[sound:14-44.mp3]
+---
+FRONT: うどん⓪
+BACK: [名] 面条，乌冬面[sound:14-45.mp3]
+---
+FRONT: カレーライス④
+BACK: [名] 咖喱饭（curry rice）[sound:14-46.mp3]
+---
+FRONT: コーラ①
+BACK: [名] 可乐（cola）[sound:14-47.mp3]
+---
+FRONT: お粥
+BACK: （おかゆ⓪）[名] 粥[sound:14-48.mp3]
+---
+FRONT: パン①
+BACK: [名] 面包（pão（葡））[sound:14-49.mp3]
+---
+FRONT: あれ⓪
+BACK: [叹] 哎呀，咦（吃惊时发出的声音）[sound:14-50.mp3]
+---
+FRONT: 引き出し
+BACK: （ひきだし⓪）[名] 抽屉[sound:14-51.mp3]
+---
+FRONT: ワイン①
+BACK: [名] 葡萄酒（wine）[sound:14-52.mp3]
+---
+SUBDECK: 第15课
+---
+FRONT: テスト①
+BACK: [名] 考试，测验（test）[sound:15-01.mp3]
+---
+FRONT: いつ①
+BACK: [疑] 什么时候，何时[sound:15-02.mp3]
+---
+FRONT: 毎週
+BACK: （まいしゅう⓪）[名] 每周[sound:15-03.mp3]
+---
+FRONT: 月曜日
+BACK: （げつようび③）[名] 星期一[sound:15-04.mp3]
+---
+FRONT: 火曜日
+BACK: （かようび②）[名] 星期二[sound:15-05.mp3]
+---
+FRONT: 水曜日
+BACK: （すいようび③）[名] 星期三[sound:15-06.mp3]
+---
+FRONT: 木曜日
+BACK: （もくようび③）[名] 星期四[sound:15-07.mp3]
+---
+FRONT: 金曜日
+BACK: （きんようび③）[名] 星期五[sound:15-08.mp3]
+---
+FRONT: 土曜日
+BACK: （どようび②）[名] 星期六[sound:15-09.mp3]
+---
+FRONT: 日曜日
+BACK: （にちようび③）[名] 星期天[sound:15-10.mp3]
+---
+FRONT: 宿題
+BACK: （しゅくだい⓪）[名] 作业[sound:15-11.mp3]
+---
+FRONT: やる⓪
+BACK: [他动1] 做，干，搞，办[sound:15-12.mp3]
+---
+FRONT: おととい③
+BACK: [名] 前天，前日[sound:15-13.mp3]
+---
+FRONT: 歓迎会
+BACK: （かんげいかい③）[名] 欢迎会[sound:15-14.mp3]
+---
+FRONT: 送別会
+BACK: （そうべつかい④③）[名] 送别会[sound:15-15.mp3]
+---
+FRONT: スポーツ②
+BACK: [名] 体育（sport[s]）[sound:15-16.mp3]
+---
+FRONT: 大会
+BACK: （たいかい⓪）[名] 大会[sound:15-17.mp3]
+---
+FRONT: 音楽
+BACK: （おんがく①）[名] 音乐[sound:15-18.mp3]
+---
+FRONT: バンド⓪
+BACK: [名] 乐队，乐团（band）[sound:15-19.mp3]
+---
+FRONT: バーベキュー③
+BACK: [名] 烤肉（barbecue）[sound:15-20.mp3]
+---
+FRONT: 何曜日
+BACK: （なんようび③）[疑] 星期几[sound:15-21.mp3]
+---
+FRONT: 確か
+BACK: （たしか①）[副] 似乎，大概（根据主观记忆）[sound:15-22.mp3]
+---
+FRONT: 確かに
+BACK: （たしかに①）[副] 确实（确认客观事实）[sound:15-23.mp3]
+---
+FRONT: ある①
+BACK: [自动1] 有，在（描述无意志主体的存在）[sound:15-24.mp3]
+---
+FRONT: 羨ましい
+BACK: （うらやましい⑤）[い形] 羡慕的[sound:15-25.mp3]
+---
+FRONT: 先月
+BACK: （せんげつ①）[名] 上个月[sound:15-26.mp3]
+---
+FRONT: 毎晩
+BACK: （まいばん①⓪）[名] 毎晚[sound:15-27.mp3]
+---
+FRONT: 今年
+BACK: （ことし⓪）[名] 今年[sound:15-28.mp3]
+---
+FRONT: 来年
+BACK: （らいねん⓪）[名] 明年[sound:15-29.mp3]
+---
+FRONT: 今夜
+BACK: （こんや①）[名] 今夜，今晚[sound:15-30.mp3]
+---
+FRONT: 去年
+BACK: （きょねん①）[名] 去年[sound:15-31.mp3]
+---
+SUBDECK: 第16课
+---
+FRONT: ずっと⓪
+BACK: [副] ......得多[sound:16-01.mp3]
+---
+FRONT: 易しい
+BACK: （やさしい③⓪）[い形] 简单的，容易的[sound:16-02.mp3]
+---
+FRONT: 背
+BACK: （せ①）[名] 个子，身高[sound:16-03.mp3]
+---
+FRONT: 低い
+BACK: （ひくい②）[い形] 低的[sound:16-04.mp3]
+---
+FRONT: 広い
+BACK: （ひろい②）[い形] 宽广的，辽阔的[sound:16-05.mp3]
+---
+FRONT: 町
+BACK: （まち②）[名] 城市[sound:16-06.mp3]
+---
+FRONT: 暑い
+BACK: （あつい②）[い形] （天气）热的[sound:16-07.mp3]
+---
+FRONT: 卵
+BACK: （たまご②⓪）[名] 卵，蛋；鸡蛋；雏形[sound:16-08.mp3]
+---
+FRONT: 普通
+BACK: （ふつう⓪）[名/な形/副] 普通，一般[sound:16-09.mp3]
+---
+FRONT: 丸い
+BACK: （まるい⓪）[い形] 圆的，球形的；圆滑的[sound:16-10.mp3]
+---
+FRONT: ほら①
+BACK: [叹] 你瞧，看哪[sound:16-11.mp3]
+---
+FRONT: 赤い
+BACK: （あかい⓪）[い形] 红色的[sound:16-12.mp3]
+---
+FRONT: 帽子
+BACK: （ぼうし⓪）[名] 帽子[sound:16-13.mp3]
+---
+FRONT: 青い
+BACK: （あおい⓪）[い形] 蓝色的[sound:16-14.mp3]
+---
+FRONT: ほう（方）①
+BACK: [名] 这一边，这一方（含对比义，"更......"比较......）[sound:16-15.mp3]
+---
+FRONT:飛行機
+BACK:（ひこうき②）[名] 飞机[sound:16-16.mp3]
+---
+FRONT:速い
+BACK:（はやい②）[い形] 快的，迅速的[sound:16-17.mp3]
+---
+FRONT: 船
+BACK: （ふね①）[名] 船[sound:16-18.mp3]
+---
+FRONT: 新幹線
+BACK: （しんかんせん③）[专] 新干线（日本高速列车）[sound:16-19.mp3]
+---
+FRONT: 便利
+BACK: （べんり①）[な形] 方便的[sound:16-20.mp3]
+---
+FRONT: コート①
+BACK: [名] 外套，大衣，风衣（coat）[sound:16-21.mp3]
+---
+FRONT: 暖かい・温かい
+BACK: （あたたかい④）[い形] 暖的，温的[sound:16-22.mp3]
+---
+FRONT: 幸せ
+BACK: （しあわせ⓪）[名/な形] 幸运，幸福[sound:16-23.mp3]
+---
+FRONT: 残念
+BACK: （ざんねん③）[な形] 遗憾，懊恼[sound:16-24.mp3]
+---
+FRONT: 次
+BACK: （つぎ②）[名] 下，下次[sound:16-25.mp3]
+---
+FRONT: さっき①
+BACK: [副] 刚才[sound:16-26.mp3]
+---
+SUBDECK: 第17课
+---
+FRONT: スーツ①
+BACK: [名] 西装（suit）[sound:17-01.mp3]
+---
+FRONT: 売り場
+BACK: （うりば⓪）[名] 柜台，出售处[sound:17-02.mp3]
+---
+FRONT: 後輩
+BACK: （こうはい⓪）[名] 后生，晚辈，学弟，学妹[sound:17-03.mp3]
+---
+FRONT: 隣
+BACK: （となり⓪）[名] 旁边，隔壁，邻居[sound:17-04.mp3]
+---
+FRONT: 同じ
+BACK: （おなじ⓪）[な形] 相同的[sound:17-05.mp3]
+---
+FRONT: 人気
+BACK: （にんき⓪）[名] 人气[sound:17-06.mp3]
+---
+FRONT: ワンピース③
+BACK: [名] 连衣裙（one-piece）[sound:17-07.mp3]
+---
+FRONT: 大変
+BACK: （たいへん⓪）[副] 十分，非常；[な形] 重大，严重；费劲的，辛苦的[sound:17-08.mp3]
+---
+FRONT: 白
+BACK: （しろ①）[名] 白色[sound:17-09.mp3]
+---
+FRONT: 黒
+BACK: （くろ①）[名] 黑色[sound:17-10.mp3]
+---
+FRONT: スカート②
+BACK: [名] 短裙（skirt）[sound:17-11.mp3]
+---
+FRONT: とても/とっても⓪
+BACK: [副] 很，十分[sound:17-12.mp3]
+---
+FRONT: ピンク①
+BACK: [名] 粉红色（pink）[sound:17-13.mp3]
+---
+FRONT: 赤
+BACK: （あか①）[名] 红色[sound:17-14.mp3]
+---
+FRONT: やはり②/やっぱり③
+BACK: [副] 果然[sound:17-15.mp3]
+---
+FRONT: ええ①
+BACK: [叹] 嗯，是（表示肯定或承诺）[sound:17-16.mp3]
+---
+FRONT: 青
+BACK: （あお①）[名] 蓝色[sound:17-17.mp3]
+---
+FRONT: いちばん（一番）
+BACK: [数] ②１号；[副] ⓪最......[sound:17-18.mp3]
+---
+FRONT: 顔
+BACK: （かお⓪）[名] 脸[sound:17-19.mp3]
+---
+FRONT: 色
+BACK: （いろ②）[名] 色，颜色[sound:17-20.mp3]
+---
+FRONT: 季節
+BACK: （きせつ①②）[名] 季节；时节[sound:17-21.mp3]
+---
+FRONT: 日本料理
+BACK: （にほんりょうり④）[名] 日本菜，日本料理[sound:17-22.mp3]
+---
+FRONT: 刺身
+BACK: （さしみ③）[名] 生鱼片[sound:17-23.mp3]
+---
+FRONT: クラス①
+BACK: [名] 班级（class）[sound:17-24.mp3]
+---
+FRONT: あんまり⓪
+BACK: [副] （不）太......（与"あまり"意思相同）[sound:17-25.mp3]
+---
+FRONT: 彼氏
+BACK: （かれし①）[名] 男朋友[sound:17-26.mp3]
+---
+FRONT: まあ①
+BACK: [副] 大体，大概；用于缓和对方或自己的心情；用于催促[sound:17-27.mp3]
+---
+FRONT: ズボン①②
+BACK: [名] 裤子（jupon（法））[sound:17-28.mp3]
+---
+SUBDECK: 第17课后 は[助]（主题）与が[助]（主语）
+---
+FRONT:働く
+BACK:（はたらく⓪）[自动1] 工作，劳动[sound:17-post-01.mp3]
+---
+FRONT:果物
+BACK:（くだもの②）[名] 水果[sound:17-post-02.mp3]
+---
+FRONT:優しい
+BACK:（やさしい③⓪）[い形] 温柔的，体贴的[sound:17-post-03.mp3]
+---
+FRONT:桜
+BACK:（さくら⓪）[名] 樱花[sound:17-post-04.mp3]
+---
+FRONT:梅
+BACK:（うめ⓪）[名] 梅花[sound:17-post-05.mp3]
+---
+SUBDECK: 第18课
+---
+FRONT: お茶
+BACK: （おちゃ⓪）[名] 茶[sound:18-01.mp3]
+---
+FRONT: ケーキ①
+BACK: [名] 蛋糕（cake）[sound:18-02.mp3]
+---
+FRONT: お菓子
+BACK: （おかし②）[名] 点心，糕点[sound:18-03.mp3]
+---
+FRONT: 紅茶
+BACK: （こうちゃ⓪）[名] 红茶[sound:18-04.mp3]
+---
+FRONT: 緑茶
+BACK: （りょくちゃ⓪）[名] 绿茶[sound:18-05.mp3]
+---
+FRONT: お水
+BACK: （おみず⓪）[名] （涼）水[sound:18-06.mp3]
+---
+FRONT: ビール①
+BACK: [名] 啤酒（bier（荷））[sound:18-07.mp3]
+---
+FRONT: ウーロン茶
+BACK: （ウーロンちゃ③）[名] 乌龙茶[sound:18-08.mp3]
+---
+FRONT: いらっしゃい④
+BACK: 欢迎欢迎。[sound:18-09.mp3]
+---
+FRONT: お邪魔します
+BACK: （おじゃまします⑤）打扰了。[sound:18-10.mp3]
+---
+FRONT: ピーチ①
+BACK: [名] 桃（peach）[sound:18-11.mp3]
+---
+FRONT: お構いなく
+BACK: （おかまい⓪－なく①）您别张罗了。[sound:18-12.mp3]
+---
+FRONT: プリン①
+BACK: [名] 布丁（pudding）[sound:18-13.mp3]
+---
+FRONT: 茶色
+BACK: （ちゃいろ⓪）[名] 茶色，褐色，咖啡色[sound:18-14.mp3]
+---
+FRONT: 茶碗
+BACK: （ちゃわん⓪）[名] 茶碗，饭碗[sound:18-15.mp3]
+---
+FRONT: お邪魔しました
+BACK: （おじゃましました⑤）打扰了。（过去时）[sound:18-16.mp3]
+---
+FRONT: ご馳走様（でした）
+BACK: （ごちそうさま⓪）〈でした<img src="-3.png">〉）吃饱了。多谢款待。[sound:18-17.mp3]
+---
+FRONT: 邪魔
+BACK: （じゃま⓪）[名/な形/他动3] 妨碍，阻挡[sound:18-18.mp3]
+---
+FRONT: この前
+BACK: （このまえ③）[名] 前几天，上次[sound:18-19.mp3]
+---
+FRONT: 食べ物
+BACK: （たべもの③②）[名] 食物[sound:18-20.mp3]
+---
+FRONT: 建物
+BACK: （たてもの②③）[名] 建筑[sound:18-21.mp3]
+---
+FRONT: 飴
+BACK: （あめ⓪）[名] 糖[sound:18-22.mp3]
+---
+FRONT: デザート②
+BACK: [名] 甜点（dessert）[sound:18-23.mp3]
+---
+FRONT: マンゴー①
+BACK: [名] 芒果（mango）[sound:18-24.mp3]
+---
+FRONT: 湯/お湯
+BACK: （ゆ①）/（おゆ⓪）[名] 开水，澡堂，温泉[sound:18-25.mp3]
+---
+SUBDECK: 第19课
+---
+FRONT: ジョギング⓪
+BACK: [名] 慢跑（jogging）[sound:19-01.mp3]
+---
+FRONT: 一緒に
+BACK: （いっしょに⓪）[副] 一起[sound:19-02.mp3]
+---
+FRONT: テニス①
+BACK: [名] 网球（tennis）[sound:19-03.mp3]
+---
+FRONT: 運動
+BACK: （うんどう⓪）[名/自动3] 运动[sound:19-04.mp3]
+---
+FRONT: サッカー①
+BACK: [名] 足球（soccer）[sound:19-05.mp3]
+---
+FRONT: 野球
+BACK: （やきゅう⓪）[名] 棒球[sound:19-06.mp3]
+---
+FRONT: ゴルフ①
+BACK: [名] 高尔夫球（golf）[sound:19-07.mp3]
+---
+FRONT: バドミントン③
+BACK: [名] 羽毛球（badminton）[sound:19-08.mp3]
+---
+FRONT: バスケットボール④／バスケ①
+BACK: [名] 篮球（basketball）[sound:19-09.mp3]
+---
+FRONT: スケート⓪②
+BACK: [名] 滑冰，溜冰（skate）[sound:19-10.mp3]
+---
+FRONT: スキー②
+BACK: [名] 滑雪（ski）[sound:19-11.mp3]
+---
+FRONT: バレーボール④
+BACK: [名] 排球（volleyball）[sound:19-12.mp3]
+---
+FRONT: 別々
+BACK: （べつべつ⓪）[名/な形] 分別，个别[sound:19-13.mp3]
+---
+FRONT: 泳ぐ
+BACK: （およぐ②）[自动1] 游泳[sound:19-14.mp3]
+---
+FRONT: 青空
+BACK: （あおぞら③）[名] 蓝天，碧空；露天[sound:19-15.mp3]
+---
+FRONT: プール①
+BACK: [名] 泳池（pool）[sound:19-16.mp3]
+---
+FRONT: 向かう
+BACK: （むかう⓪）[自动1] 前往[sound:19-17.mp3]
+---
+FRONT: 疲れる
+BACK: （つかれる③）[自动2] 疲劳，劳累[sound:19-18.mp3]
+---
+FRONT: 休む
+BACK: （やすむ②）[自动1] 休息[sound:19-19.mp3]
+---
+FRONT: 鳥
+BACK: （とり⓪）[名] 鸟[sound:19-20.mp3]
+---
+FRONT: 水泳
+BACK: （すいえい⓪）[名/自动3] 游泳[sound:19-21.mp3]
+---
+FRONT: これから⓪
+BACK: [副] 接下来，今后，将来[sound:19-22.mp3]
+---
+FRONT: 居酒屋
+BACK: （いざかや⓪）[名] 小酒馆[sound:19-23.mp3]
+---
+FRONT: うさぎ⓪
+BACK: （兎）[名] 兔[sound:19-24.mp3]
+---
+FRONT: 焼き鳥
+BACK: （やきとり⓪）[名] 烤鸡肉[sound:19-25.mp3]
+---
+FRONT: ～名様
+BACK: （めいさま）......位[sound:19-26.mp3]
+---
+FRONT: とりあえず③
+BACK: [副] 姑且，暂且[sound:19-27.mp3]
+---
+FRONT: 4つ
+BACK: （よっつ③）[数] 4，4个，4岁[sound:19-28.mp3]
+---
+FRONT: かしこまりました
+BACK: 我明白了。（服务业敬语）[sound:19-29.mp3]
+---
+FRONT: よく①
+BACK: [副] 常常，经常，时常[sound:19-30.mp3]
+---
+FRONT: ルームメート④
+BACK: [名] 室友（roommate）[sound:19-31.mp3]
+---
+FRONT: 一人暮らし
+BACK: （ひとりぐらし④）[名] 一个人生活，独居[sound:19-32.mp3]
+---
+FRONT: 一人
+BACK: （ひとり②）[名] 一个人[sound:19-33.mp3]
+---
+FRONT: 故郷
+BACK: （ふるさと②／こきょう①）[名] 故乡[sound:19-34.mp3]
+---
+FRONT: 一軒
+BACK: （いっけん①）[名] 一栋，一户，一家[sound:19-35.mp3]
+---
+FRONT: 二人
+BACK: （ふたり③）[名] 两个人[sound:19-36.mp3]
+---
+FRONT: 駅前
+BACK: （えきまえ③）[名] 车站附近一带[sound:19-37.mp3]
+---
+FRONT: 市役所
+BACK: （しやくしょ②）[名] 市政府[sound:19-38.mp3]
+---
+SUBDECK: 第20课
+---
+FRONT: 庭
+BACK: （にわ⓪）[名] 庭，庭院，院子[sound:20-01.mp3]
+---
+FRONT: 自転車
+BACK: （じてんしゃ②⓪）[名] 自行车，单车[sound:20-02.mp3]
+---
+FRONT: 運転
+BACK: （うんでん⓪）[名/他动3] 驾驶，运转[sound:20-03.mp3]
+---
+FRONT: 車
+BACK: （くるま⓪）[名] 车，汽车[sound:20-04.mp3]
+---
+FRONT: 乗る
+BACK: （のる⓪）[自动1] 乘坐，搭乘（交通工具）[sound:20-05.mp3]  
+---
+FRONT: バイク①  
+BACK: [名] 摩托车（motorbike）[sound:20-06.mp3]
+---
+FRONT: 降りる
+BACK: （おりる②）[自动2] 下（交通工具）[sound:20-07.mp3]
+---
+FRONT: ボート①  
+BACK: [名] 小船（boat）[sound:20-08.mp3]
+---
+FRONT: アニメ①  
+BACK: [名] 动画片（animation）[sound:20-09.mp3]
+---
+FRONT: 映画
+BACK: （えいが①⓪）[名] 电影  [sound:20-10.mp3]
+---
+FRONT: ドラマ①  
+BACK: [名] 电视剧（drama）[sound:20-11.mp3]
+---
+FRONT: 見る
+BACK: （みる①）[他动2] 看  [sound:20-12.mp3]
+---
+FRONT: 空
+BACK: （そら①）[名] 天空  [sound:20-13.mp3]
+---
+FRONT: 海
+BACK: （うみ①）[名] 海[sound:20-14.mp3]
+---
+FRONT: 国
+BACK: （くに⓪）[名] 国家[sound:20-15.mp3]
+---
+FRONT: こんな⓪
+BACK: [な形] 这样的[sound:20-16.mp3]
+---
+FRONT: そんな⓪
+BACK: [な形] 那样的[sound:20-17.mp3]
+---
+FRONT: あんな⓪
+BACK: [な形] 那样的[sound:20-18.mp3]
+---
+FRONT: どんな①
+BACK: [な形] 怎样的，哪样的[sound:20-19.mp3]
+---
+FRONT: キッチン①  
+BACK: [名] 厨房（kitchen）[sound:20-20.mp3]
+---
+FRONT: 大きい
+BACK: （おおきい③）[い形] 大的[sound:20-21.mp3]
+---
+FRONT: そして⓪
+BACK: [连] 然后，于是，而且（顺接）[sound:20-22.mp3]
+---
+FRONT: いっぱい⓪  
+BACK: [副] 满满地，很多[sound:20-23.mp3]
+---
+FRONT: それから⓪  
+BACK: [连] 然后，而后，之后；还有，再加上（用于补充）[sound:20-24.mp3]
+---
+FRONT: 書斎
+BACK: （しょさい⓪）[名] 书房[sound:20-25.mp3]
+---
+FRONT: 本棚
+BACK: （ほんだな①）[名] 书架[sound:20-26.mp3]
+---
+FRONT: ベッド①  
+BACK: [名] 床（bed）[sound:20-27.mp3]
+---
+FRONT: 上
+BACK: （うえ⓪）[名] 上，上部，上方，上面[sound:20-28.mp3]
+---
+FRONT: ペット①  
+BACK: [名] 宠物（pet）[sound:20-29.mp3]
+---
+FRONT: はあ①  
+BACK: [叹] 啊（用于敷衍地答应或接受，也可表示吃惊、怀疑的心情）[sound:20-30.mp3]
+---
+FRONT: チケット②①  
+BACK: [名] 票（ticket）[sound:20-31.mp3]
+---
+FRONT: 眼鏡
+BACK: （めがね①）[名] 眼镜[sound:20-32.mp3]
+---
+FRONT: 乗り物
+BACK: （のりもの⓪）[名] 交通工具[sound:20-33.mp3]
+---
+FRONT: 下
+BACK: （した②）[名] 下，下部，下方，下面[sound:20-34.mp3]
+---
+FRONT: 壁
+BACK: （かべ⓪）[名] 墙，墙壁[sound:20-35.mp3]
+---
+FRONT: 絵
+BACK: （え①）[名] 画，图画，绘画，图片[sound:20-36.mp3]
+---
+FRONT: テーブル⓪ 
+BACK: [名] 桌子（table）[sound:20-37.mp3]
+---
+FRONT: 籠
+BACK: （かご⓪）[名] 笼，篮，筐[sound:20-38.mp3]
+---
+FRONT: 花瓶
+BACK: （かびん⓪）[名] 花瓶[sound:20-39.mp3]
+---
+FRONT: ソファー①  
+BACK: [名] 沙发（sofa）[sound:20-40.mp3]
+---
+FRONT: クッション①  
+BACK: [名] 靠垫，垫席（cushion）[sound:20-41.mp3]
+---
+FRONT: サッカーボール⑤  
+BACK: [名] 足球（soccer ball）[sound:20-42.mp3]
+---
+SUBDECK: 第21课
+---
+FRONT: 話/お話
+BACK: （はなし③）/（おはなし⓪）[名] 话 [sound:21-01.mp3]
+---
+FRONT: 試験
+BACK: （しけん②）[名] 考试，测验[sound:21-02.mp3]
+---
+FRONT: 興味
+BACK: （きょうみ①）[名] 兴趣[sound:21-03.mp3]
+---
+FRONT: 願い/お願い
+BACK: （ねがい②）/（おねがい⓪）[名] 愿望[sound:21-04.mp3]  
+---
+FRONT: 考え
+BACK: （かんがえ③）[名] 想法，意见，观点[sound:21-05.mp3]
+---
+FRONT: 熱
+BACK: （ねつ②）[名] 热，（发）烧[sound:21-06.mp3]
+---
+FRONT: 授業
+BACK: （じゅぎょう①）[名] 教课，授课[sound:21-07.mp3]
+---
+FRONT: まあ①  
+BACK: [叹] 用于略消极地应对提问，或克制地提出补充意见等[sound:21-08.mp3]
+---
+FRONT: 夢
+BACK: （ゆめ②）[名] 梦，梦想[sound:21-09.mp3]
+---
+FRONT: 夜
+BACK: （よる①）[名] 夜，夜晚[sound:21-10.mp3]
+---
+FRONT: 美しい
+BACK: （うつくしい④）[い形] 美丽的[sound:21-11.mp3]
+---
+FRONT: 覚める
+BACK: （さめる②）[自动2] 睡觉醒来；酒醒，清醒；醒悟  [sound:21-12.mp3]
+---
+FRONT: 目
+BACK: （め①）[名] 眼睛[sound:21-13.mp3]
+---
+FRONT: 店長
+BACK: （てんちょう①）[名] 店长[sound:21-14.mp3]
+---
+FRONT: 窓
+BACK: （まど①）[名] 窗户[sound:21-15.mp3]
+---
+FRONT: ページ⓪
+BACK: [名] 页，页码（page）[sound:21-16.mp3]
+---
+FRONT: 店員
+BACK: （てんいん⓪）[名] 店员[sound:21-17.mp3]
+---
+FRONT: ゆうべ③⓪
+BACK: [名/副]昨夜[sound:21-18.mp3]
+---
+FRONT: 教室
+BACK: （きょうしつ⓪）[名]教室[sound:21-19.mp3]  
+---
+FRONT: 机
+BACK: （つくえ⓪）[名]桌子[sound:21-20.mp3]
+---
+FRONT: どうして①  
+BACK: [副]为什么[sound:21-21.mp3]
+---
+FRONT: 病院
+BACK: （びょういん⓪）[名]医院[sound:21-22.mp3]
+---
+FRONT: 留守
+BACK: （るす①）[名/自动3]（外出）不在家[sound:21-23.mp3]
+---
+FRONT: 魅力
+BACK: （みりょく⓪）[名]魅力[sound:21-24.mp3]
+---
+FRONT: ニュース①  
+BACK: [名]消息，新闻，报道(news)[sound:21-25.mp3]
+---
+FRONT: 写真
+BACK: （しゃしん⓪）[名]照片[sound:21-26.mp3]
+---
+SUBDECK: 第22课
+---
+FRONT: 美術館
+BACK: （びじゅつかん③）[名] 美术馆[sound:22-01.mp3]
+---
+FRONT: 映画館
+BACK: （えいがかん③）[名] 电影院[sound:22-02.mp3]
+---
+FRONT: 体育館
+BACK: （たいいくかん④）[名] 体育馆[sound:22-03.mp3]
+---
+FRONT: 忙しい
+BACK: （いそがしい④）[い形] 忙的[sound:22-04.mp3]
+---
+FRONT: 悪い
+BACK: （わるい②）[い形] 坏的[sound:22-05.mp3]
+---
+FRONT: 後で
+BACK: （あとで①）[副] 待会儿[sound:22-06.mp3]
+---
+FRONT: うるさい③
+BACK: [い形] 吵的，烦人的[sound:22-07.mp3]
+---
+FRONT: 服
+BACK: （ふく②）[名] 衣服[sound:22-08.mp3]
+---
+FRONT: 小さい
+BACK: （ちいさい③）[い形] 小的[sound:22-09.mp3]
+---
+FRONT: パンツ①
+BACK: [名] 裤子；短裤，裤衩儿，内裤（pants）[sound:22-10.mp3]
+---
+FRONT: 弁当/お弁当
+BACK: （べんとう③）/（おべんとう⓪）[名] 盒饭[sound:22-11.mp3]
+---
+FRONT: まずい②
+BACK: [い形] 难吃的，不妙的[sound:22-12.mp3]
+---
+FRONT: 作る
+BACK: （つくる②）[他动1] 做，制作[sound:22-13.mp3]
+---
+FRONT: 麻婆豆腐
+BACK: （マーボーどうふ⑤）[名] 麻婆豆腐[sound:22-14.mp3]
+---
+FRONT: 辛い
+BACK: （からい②）[い形] 辣的[sound:22-15.mp3]
+---
+FRONT: スープ①
+BACK: [名] 汤（soup）[sound:22-16.mp3]
+---
+FRONT: しょっぱい③
+BACK: [い形] 咸的[sound:22-17.mp3]
+---
+FRONT: 塩
+BACK: （しお②）[名] 盐[sound:22-18.mp3]
+---
+FRONT: 口/お口
+BACK: （くち⓪）/（おくち⓪）[名] 嘴[sound:22-19.mp3]
+---
+FRONT: 合う
+BACK: （あう①）[自动1] 合适[sound:22-20.mp3]
+---
+FRONT: 手料理
+BACK: （てりょうり②）[名] 亲手做的菜[sound:22-21.mp3]
+---
+FRONT: 甘い
+BACK: （あまい⓪②）[い形] 甜的，天真的[sound:22-22.mp3]
+---
+FRONT: 足
+BACK: （あし②）[名] 脚[sound:22-23.mp3]
+---
+FRONT: 餃子
+BACK: （ギョーザ／ギョウザ⓪）[名] 饺子[sound:22-24.mp3]
+---
+FRONT: 塩辛い
+BACK: （しおからい④）[い形] 咸的[sound:22-25.mp3]
+---
+FRONT: すっぱい③
+BACK: [い形] 酸的[sound:22-26.mp3]
+---
+FRONT: 硬い
+BACK: （かたい⓪②）[い形] 硬的[sound:22-27.mp3]
+---
+FRONT: 柔らかい
+BACK: （やわらかい④）[い形] 软的，嫩的[sound:22-28.mp3]
+---
+SUBDECK: 第23课
+---
+FRONT: 寒い
+BACK:（さむい②）[い形] 寒冷的[sound:23-01.mp3]
+---
+FRONT:涼しい
+BACK:（すずしい③）[い形] 凉快的[sound:23-02.mp3]
+---
+FRONT:古い
+BACK:（ふるい②）[い形] 旧的[sound:23-03.mp3]
+---
+FRONT:天気
+BACK:（てんき①）[名] 天气[sound:23-04.mp3]
+---
+FRONT:いい①／よい①
+BACK:[い形] 好的[sound:23-05.mp3]
+---
+FRONT: 来て  
+BACK: (きて①) 请你过来  [sound:23-06.mp3]
+---
+FRONT: 手 / お手  
+BACK: (て① / おて⓪②) [名] 手[sound:23-07.mp3]
+---
+FRONT: 痛い  
+BACK: (いたい②) [い形] 痛的[sound:23-08.mp3]
+---
+FRONT: 時  
+BACK: (とき②) [名] 时候[sound:23-09.mp3]
+---
+FRONT: 焼き餅
+BACK: ヤキモチ③④⓪ [名] 烤年糕；嫉妒，吃醋[sound:23-10.mp3]
+---
+FRONT: どんどん①  
+BACK: [副] 连续不断地[sound:23-11.mp3]
+---
+FRONT: 食べて  
+BACK: (たべて①) 请你吃[sound:23-12.mp3]
+---
+FRONT: お腹  
+BACK: (おなか⓪) [名] 肚子[sound:23-13.mp3]
+---
+FRONT: 着物  
+BACK: (きもの⓪) [名] 和服[sound:23-14.mp3]
+---
+FRONT: 着る  
+BACK: (きる⓪) [他动2] 穿，着[sound:23-15.mp3]
+---
+FRONT: 浴衣  
+BACK: (ゆかた⓪) [名] 浴衣（夏季简易和服）[sound:23-16.mp3]  
+---
+FRONT: 寂しい  
+BACK: (さびしい③) [い形] 寂寞的[sound:23-17.mp3]
+---
+FRONT: 後  
+BACK: (あと①) [名] 后，后面，背后；以后[sound:23-18.mp3]
+---
+FRONT: 掛ける  
+BACK: (かける②) [他动2] 挂，悬挂；戴（眼镜）；打（电话）[sound:23-19.mp3]
+---
+FRONT: 蒸し暑い  
+BACK: (むしあつい④) [い形] 闷热的[sound:23-20.mp3]
+---
+SUBDECK: 第24课
+---
+FRONT: 上手/お上手  
+BACK: (じょうず③／おじょうず⓪) [な形] 高明的，水平高的[sound:24-01.mp3]
+---
+FRONT: 下手  
+BACK: (へた②) [な形] 笨拙的，水平低的[sound:24-02.mp3]
+---
+FRONT: 意味  
+BACK: (いみ①) [名] 意思[sound:24-03.mp3]
+---
+FRONT: ぺらぺら①  
+BACK: [副] (外语) 流利地[sound:24-04.mp3]
+---
+FRONT: 苦手  
+BACK: (にがて⓪③) [な形] 不擅长的，不善于干的[sound:24-05.mp3]
+---
+FRONT: お酒  
+BACK: (おさけ⓪) [名] 酒  [sound:24-06.mp3]
+---
+FRONT: にんにく⓪
+BACK: [名] 大蒜  [sound:24-07.mp3]
+---
+FRONT: 素晴らしい  
+BACK: (すばらしい④) [い形] 极好的  [sound:24-08.mp3]
+---
+FRONT: 早い  
+BACK: (はやい②) [い形] 早的  [sound:24-09.mp3]
+---
+FRONT: 遅い  
+BACK: (おそい⓪②) [い形] 迟的  [sound:24-10.mp3]
+---
+FRONT: 丁度
+BACK: (ちょうど⓪) [副] 正(好)，恰(好)  [sound:24-11.mp3]
+---
+FRONT: 十分
+BACK: (じゅうぶん③) [副] 足够，充分  [sound:24-12.mp3]
+---
+FRONT: 洋服  
+BACK: (ようふく⓪) [名] 西装  [sound:24-13.mp3]
+---
+FRONT: サイズ①
+BACK: [名] 尺寸，尺码(size)[sound:24-14.mp3]
+---
+FRONT: 問題
+BACK: (もんだい⓪) [名] 问题[sound:24-15.mp3]
+---
+FRONT: よく①
+BACK: [副] 非常，很[sound:24-16.mp3]
+---
+FRONT: 点
+BACK: (てん⓪) [名] 点；小数点；分数，得分[sound:24-17.mp3]
+---
+FRONT: 引く
+BACK: (ひく⓪) [他动1] 减[sound:24-18.mp3]
+---
+FRONT: あげる⓪
+BACK: [他动2] 给[sound:24-19.mp3]
+---
+FRONT: 持つ
+BACK: (もつ①) [他动1] 拿，手持，持有
+持ってる (もってる①) [持续体][sound:24-20.mp3]
+---
+FRONT: 正解
+BACK: (せいかい⓪) [名] 正解[sound:24-21.mp3]
+---
+FRONT: ピアノ
+BACK: (ピアノ⓪) [名] 钢琴 (piano)[sound:24-22.mp3]
+---
+SUBDECK: 第25课
+---
+FRONT: 頭
+BACK: (あたま③②) [名] 头[sound:25-01.mp3]
+---
+FRONT: 心
+BACK: (こころ③②) [名] 心[sound:25-02.mp3]
+---
+FRONT: 狭い
+BACK: (せまい②) [い形] 狭窄的[sound:25-03.mp3]
+---
+FRONT: 鼻
+BACK: (はな⓪) [名] 鼻子[sound:25-04.mp3]
+---
+FRONT: 耳
+BACK: (みみ②) [名] 耳朵[sound:25-05.mp3]
+---
+FRONT: 遠い
+BACK: (とおい⓪) [い形] 远的[sound:25-06.mp3]
+---
+FRONT: 髪
+BACK: (かみ②) [名] 头发[sound:25-07.mp3]
+---
+FRONT: 長い
+BACK: (ながい②) [い形] 长的[sound:25-08.mp3]
+---
+FRONT: 短い
+BACK: (みじかい③) [い形] 短的[sound:25-09.mp3]
+---
+FRONT: 近い
+BACK: (ちかい②) [い形] 近的[sound:25-10.mp3]
+---
+FRONT: 近く
+BACK: (ちかく①②) [名] 近处，附近[sound:25-11.mp3]
+---
+FRONT: 遠く
+BACK: (とおく③) [名] 远处[sound:25-12.mp3]
+---
+FRONT: 多い
+BACK: (おおい①) [い形] 多的[sound:25-13.mp3]
+---
+FRONT: 少ない
+BACK: (すくない③) [い形] 少的[sound:25-14.mp3]
+---
+FRONT: 休日
+BACK: (きゅうじつ⓪) [名] 休息日，假日[sound:25-15.mp3]
+---
+FRONT: たくさん
+BACK: [副]⓪很多地；[名]③很多，许多，大量，特别多[sound:25-16.mp3]
+---
+FRONT: 柚子
+BACK: (ゆず①) [名] 柚子[sound:25-17.mp3]
+---
+FRONT: 菊
+BACK: (きく②⓪) [名] 菊花[sound:25-18.mp3]
+---
+FRONT: 土日
+BACK: (どにち⓪) [名] 周六日[sound:25-19.mp3]
+---
+FRONT: 祝日
+BACK: (しゅくじつ⓪) [名] 节日[sound:25-20.mp3]
+---
+FRONT: 平日
+BACK: (へいじつ⓪) [名] 工作日[sound:25-21.mp3]
+---
+FRONT: もっと①
+BACK: [副] 更，更加[sound:25-22.mp3]
+---
+FRONT: バスタオル③
+BACK: [名] 浴巾(bath towel)[sound:25-23.mp3]
+---
+FRONT: レンタル①
+BACK: [名] 出租(rental)[sound:25-24.mp3]
+---
+FRONT: できる②
+BACK: [自动2] 形成，建成；完成；能，会[sound:25-25.mp3]
+---
+FRONT: マッサージ③
+BACK: [名] 按摩(massage)[sound:25-26.mp3]
+---
+FRONT: 無料
+BACK: (むりょう⓪) [名] 免费[sound:25-27.mp3]
+---
+FRONT: 古本
+BACK: (ふるほん⓪) [名] 旧书[sound:25-28.mp3]
+---
+FRONT: 一皿
+BACK: (ひとさら②) [数] 一盘[sound:25-29.mp3]
+---
+FRONT: よく①
+BACK: [副] 好好地，认真地；很好地，出色地[sound:25-30.mp3]
+---
+FRONT: 温泉
+BACK: (おんせん⓪) [名] 温泉[sound:25-31.mp3]
+---
+FRONT: 有料
+BACK: (ゆうりょう⓪) [名] 收费[sound:25-32.mp3]
+---
+FRONT: 夏休み
+BACK: (なつやすみ③) [名] 暑假[sound:25-33.mp3]
+---
+SUBDECK: 第26课
+---
+FRONT: 苦しい
+BACK: (くるしい③) [い形] 痛苦的[sound:26-01.mp3]
+---
+FRONT: 恥ずかしい
+BACK: (はずかしい④) [い形] 害羞的[sound:26-02.mp3]
+---
+FRONT: 懐かしい
+BACK: (なつかしい④) [い形] 怀念的[sound:26-03.mp3]
+---
+FRONT: 悔しい
+BACK: (くやしい③) [い形] 悔恨的，懊悔的[sound:26-04.mp3]
+---
+FRONT: 勉強
+BACK: (べんきょう⓪) [名/他动3] 学习[sound:26-05.mp3]
+---
+FRONT: 動物園
+BACK: (どうぶつえん④) [名] 动物园[sound:26-06.mp3]
+---
+FRONT: 悲しい
+BACK: (かなしい⓪③) [い形] 悲哀的[sound:26-07.mp3]
+---
+FRONT: 怖い
+BACK: (こわい②) [い形] 害怕的[sound:26-08.mp3]
+---
+FRONT: 自分
+BACK: (じぶん⓪) [名] 自己，某人自身；我[sound:26-09.mp3]
+---
+FRONT: 憎い
+BACK: (にくい②) [い形] 讨厌的，厌恶的[sound:26-10.mp3]
+---
+FRONT: 趣味
+BACK: (しゅみ①) [名] 爱好[sound:26-11.mp3]
+---
+FRONT: カラオケ⓪
+BACK: [名] 卡拉OK[sound:26-12.mp3]
+---
+FRONT: 漫画
+BACK: (まんが⓪) [名] 漫画[sound:26-13.mp3]
+---
+FRONT: 全然
+BACK: (ぜんぜん⓪) [副] 全然(不)，完全(不)[sound:26-14.mp3]
+---
+FRONT: 送る
+BACK: (おくる⓪) [他动1] 送，发送，寄送，送到[sound:26-15.mp3]
+---
+FRONT: ほとんど
+BACK: (ほとんど②) [副] 基本上，大概，大体；差点儿，几乎；[名] 大部分[sound:26-16.mp3]
+---
+FRONT: お金
+BACK: (おかね⓪) [名] 钱[sound:26-17.mp3]
+---
+FRONT: 読む
+BACK: (よむ①) [他动1] 读[sound:26-18.mp3]
+---
+FRONT: 冷たい
+BACK: (つめたい⓪③) [い形] 凉的，冷淡的[sound:26-19.mp3]
+---
+FRONT: フランス語
+BACK: (フランスご⓪) [名] 法语[sound:26-20.mp3]
+---
+SUBDECK: 第27课
+---
+FRONT: 雨
+BACK: (あめ①) [名] 雨[sound:27-01.mp3]
+---
+FRONT: 降る
+BACK: (ふる①) [自动1] 下(雨、雪)[sound:27-02.mp3]
+---
+FRONT: 雪
+BACK: (ゆき②) [名] 雪[sound:27-03.mp3]
+---
+FRONT: 曇り
+BACK: (くもり③) [名] 阴天[sound:27-04.mp3]
+---
+FRONT: 晴れ
+BACK: (はれ②) [名] 晴天[sound:27-05.mp3]
+---
+FRONT: 風
+BACK: (かぜ⓪) [名] 风[sound:27-06.mp3]
+---
+FRONT: 吹く
+BACK: (ふく①②) [自动1] 吹，刮(风)[sound:27-07.mp3]
+---
+FRONT: 彼
+BACK: (かれ①) [代] 他；[名] 男朋友[sound:27-08.mp3]
+---
+FRONT: 今にも
+BACK: (いまにも①) [副] 就要，马上，眼看(常与"～そうだ【征兆】"搭配)[sound:27-09.mp3]
+---
+FRONT: 遊園地
+BACK: (ゆうえんち③) [名] 游乐场[sound:27-10.mp3]
+---
+FRONT: レストラン①
+BACK: [名] 餐厅(restaurant)[sound:27-11.mp3]
+---
+FRONT: 明々後日
+BACK: (しあさって③) [名] 大后天[sound:27-12.mp3]
+---
+FRONT: 台風
+BACK: (たいふう③) [名] 台风[sound:27-13.mp3]
+---
+FRONT: 言う
+BACK: (いう⓪) [他动1] 说[sound:27-14.mp3]
+---
+FRONT: 今日中
+BACK: (きょうじゅう⓪) [名] 今天之内[sound:27-15.mp3]
+---
+FRONT: 嵐
+BACK: (あらし①) [名] 风暴[sound:27-16.mp3]
+---
+FRONT: ただいま⓪
+BACK: 我回来了.[sound:27-17.mp3]
+---
+FRONT: お帰り(なさい)
+BACK: (おかえり⓪〈なさい⑥〉) 你回来啦.[sound:27-18.mp3]
+---
+FRONT: お休み(なさい)
+BACK: (おやすみ⓪〈なさい⑥〉) [问候] 晚安[sound:27-19.mp3]
+---
+FRONT: 相手
+BACK: (あいて③) [名] 对手，对方[sound:27-20.mp3]
+---
+FRONT: 冬休み
+BACK: (ふゆやすみ③) [名] 寒假[sound:27-21.mp3]
+---
+FRONT: 世界
+BACK: (せかい①) [名] 世界[sound:27-22.mp3]
+---
+FRONT: ひどい②
+BACK: [い形] 残酷的，严重的，过分的[sound:27-23.mp3]
+---
+FRONT: 博物館
+BACK: (はくぶつかん④) [名] 博物馆[sound:27-24.mp3]
+---
+FRONT: すぐ(に)①
+BACK: [副] 立即，马上，立刻[sound:27-25.mp3]
+---
+SUBDECK: 第27课后 动词て形专题
+---
+FRONT: 才能  
+BACK: (さいのう⓪) [名] 才能[sound:27-te-01.mp3]
+---
+FRONT:働く
+BACK:（はたらく⓪）[自动1] 工作[sound:27-te-02.mp3]
+---
+FRONT: 話す  
+BACK: (はなす②) [他动1] 说，讲  [sound:27-te-03.mp3]
+---
+FRONT: 買う  
+BACK: (かう⓪) [他动1] 买，购买  [sound:27-te-04.mp3]
+---
+FRONT: 待つ 
+BACK: (まつ①) [他动1] 等，等待  [sound:27-te-05.mp3]
+---
+FRONT: 売る  
+BACK: (うる⓪) [他动1] 卖，售；出卖  [sound:27-te-06.mp3]
+---
+FRONT: 呼ぶ  
+BACK: (よぶ⓪) [他动1] 叫，呼喊，称呼  [sound:27-te-07.mp3]
+---
+FRONT: 死ぬ  
+BACK: (しぬ⓪) [自动1] 死，死亡  [sound:27-te-08.mp3]
+---
+FRONT: 早く  
+BACK: (はやく①) [名] 早，早先；[副] 早就，早点儿 [sound:27-te-09.mp3] 
+---
+FRONT: 考える  
+BACK: (かんがえる③④) [他动2] 思考  [sound:27-te-10.mp3]
+---
+FRONT: 安心  
+BACK: (あんしん⓪) [名/な形/自动3] 安心，放心  [sound:27-te-11.mp3]
+---
+FRONT: 君  
+BACK: (きみ⓪) [代] 你（亲昵的称呼）  [sound:27-te-12.mp3]
+---
+FRONT: 愛する  
+BACK: (あいする③) [他动3] 爱，喜爱；思慕，心爱  [sound:27-te-13.mp3]
+---
+FRONT: 住む  
+BACK: (すむ①) [自动1] 住，居住，定居  [sound:27-te-14.mp3]
+---
+FRONT: 結婚  
+BACK: (けっこん⓪) [名/自动3] 结婚  [sound:27-te-15.mp3]
+---
+FRONT: 汚い  
+BACK: (きたない③) [い形] 脏，污  [sound:27-te-16.mp3]
+---
+FRONT: 今朝  
+BACK: (けさ①) [名] 今天早晨  [sound:27-te-17.mp3]
+---
+SUBDECK: 第28课
+---
+FRONT: ホテル①
+BACK: [名] 宾馆，酒店(hotel)[sound:28-01.mp3]
+---
+FRONT: 明るい
+BACK: (あかるい⓪③) [い形] 明亮的，开朗的[sound:28-02.mp3]
+---
+FRONT: 厳しい
+BACK: (きびしい③) [い形] 严厉的，严格的[sound:28-03.mp3]
+---
+FRONT: 地球
+BACK: (ちきゅう⓪) [名] 地球[sound:28-04.mp3]
+---
+FRONT: 体
+BACK: (からだ⓪) [名] 身体[sound:28-05.mp3]
+---
+FRONT: 強い
+BACK: (つよい②) [い形] 强的，强劲的[sound:28-06.mp3]
+---
+FRONT: 弱い
+BACK: (よわい②) [い形] 弱的，脆弱的，软弱的[sound:28-07.mp3]
+---
+FRONT: チーム①
+BACK: [名] 队伍(team)[sound:28-08.mp3]
+---
+FRONT: チョコレート③
+BACK: [名] 巧克力(chocolate)[sound:28-09.mp3]
+---
+FRONT: 每朝
+BACK: (まいあさ①⓪) [名] 每天早晨[sound:28-10.mp3]
+---
+FRONT: 特に
+BACK: (とくに①) [副] 特别是[sound:28-11.mp3]
+---
+FRONT: ふうん/ふん⓪①
+BACK: [叹] 表示简单的回应，用于半信半疑时[sound:28-12.mp3]
+---
+FRONT: 思う
+BACK: (おもう②) [他动1] 想，认为[sound:28-13.mp3]
+---
+FRONT: 賢い
+BACK: (かしこい③) [い形] 聪明伶俐的[sound:28-14.mp3]
+---
+FRONT: こと②
+BACK: [名] 事情[sound:28-15.mp3]
+---
+FRONT: 嫌い
+BACK: (きらい⓪) [な形] 讨厌的[sound:28-16.mp3]
+---
+FRONT: 简单
+BACK: (かんたん⓪) [な形] 简单的[sound:28-17.mp3]
+---
+FRONT: 大嫌い
+BACK: (だいきらい①) [な形] 特别讨厌的[sound:28-18.mp3]
+---
+FRONT: 有名
+BACK: (ゆうめい⓪) [な形] 有名的[sound:28-19.mp3]
+---
+FRONT: 複雑
+BACK: (ふくざつ⓪) [な形] 复杂的[sound:28-20.mp3]
+---
+FRONT: 起きる
+BACK: (おきる②) [自动2] 起，起立；起床[sound:28-21.mp3]
+---
+FRONT: 馬
+BACK: (ば①) [专] 马[sound:28-22.mp3]
+---
+FRONT: ハンサム①
+BACK: [な形] 帅气的(handsome)[sound:28-23.mp3]
+---
+FRONT: 独身
+BACK: (どくしん⓪) [名] 独身，单身[sound:28-24.mp3]
+---
+SUBDECK: 第29课
+---
+FRONT: 遅刻
+BACK: (ちこく⓪) [名/自动3] 迟到[sound:29-01.mp3]
+---
+FRONT: 残業
+BACK: (ざんぎょう⓪) [名/自动3] 加班[sound:29-02.mp3]
+---
+FRONT: 風呂/お風呂
+BACK: (ふろ②/おふろ②) [名] 澡盆，浴室，澡堂[sound:29-03.mp3]
+---
+FRONT: 入る
+BACK: (はいる①) [自动1] 进入[sound:29-04.mp3]
+---
+FRONT: シャワー①
+BACK: [名] 淋浴(shower)[sound:29-05.mp3]
+---
+FRONT: 浴びる
+BACK: (あびる⓪) [他动2] 浇，淋，浴[sound:29-06.mp3]
+---
+FRONT: 親切
+BACK: (しんせつ①) [な形] 热情的[sound:29-07.mp3]
+---
+FRONT: 留学生
+BACK: (りゅうがくせい③④) [名] 留学生[sound:29-08.mp3]
+---
+FRONT: 静か
+BACK: (しずか①) [な形] 安静的[sound:29-09.mp3]
+---
+FRONT: にぎやか②
+BACK: [な形] 热闹的[sound:29-10.mp3]
+---
+FRONT: 優秀
+BACK: (ゆうしゅう⓪) [な形] 优秀的[sound:29-11.mp3]
+---
+FRONT: 暇
+BACK: (ひま⓪) [名] 闲暇，空闲；[な形] 有空的，闲的[sound:29-12.mp3]
+---
+FRONT: 丁寧
+BACK: (ていねい①) [な形] 仔细的，细致的[sound:29-13.mp3]
+---
+FRONT: もうすぐ③
+BACK: [副] 马上[sound:29-14.mp3]
+---
+FRONT: 留学
+BACK: (りゅうがく⓪) [名/自动3] 留学[sound:29-15.mp3]
+---
+FRONT: お元気で
+BACK: (おげんきで②) 请多保重[sound:29-16.mp3]
+---
+FRONT: 元気
+BACK: (げんき①) [名/な形] 健康的，精力充沛的，元气[sound:29-17.mp3]
+---
+FRONT: お大事に
+BACK: (おだいじに⓪) 请多保重[sound:29-18.mp3]
+---
+FRONT: 大事
+BACK: (だいじ⓪) [な形] 重要；保重；爱惜，珍惜[sound:29-19.mp3]
+---
+FRONT: 大切
+BACK: (たいせつ⓪) [な形] 重要；贵重；爱惜，珍惜[sound:29-20.mp3]
+---
+FRONT: 数学
+BACK: (すうがく⓪) [名] 数学[sound:29-21.mp3]
+---
+FRONT: ～点
+BACK: (てん) [量] ...分(分数)，...件(件数)[sound:29-22.mp3]
+---
+FRONT: 取る
+BACK: (とる①) [他动1] 取，拿到，获得[sound:29-23.mp3]
+---
+FRONT: 合格
+BACK: (ごうかく⓪) [名/自动3] 合格，及格[sound:29-24.mp3]
+---
+FRONT: 人間
+BACK: (にんげん⓪) [名] 人类[sound:29-25.mp3]
+---
+FRONT: やめる
+BACK: (やめる⓪) [他动2] 停，戒，放弃[sound:29-26.mp3]
+---
+FRONT: 今度
+BACK: (こんど①) [名/副] 这一次，下一次[sound:29-27.mp3]
+---
+FRONT: 会う
+BACK: (あう①) [自动1] 见面[sound:29-28.mp3]
+---
+FRONT: 遊ぶ
+BACK: (あそぶ⓪) [自动1] 玩，游玩[sound:29-29.mp3]
+---
+FRONT: 週末
+BACK: (しゅうまつ⓪) [名] 周末[sound:29-30.mp3]
+---
+FRONT: パンダ①
+BACK: [名] 熊猫(panda)[sound:29-31.mp3]
+---
+SUBDECK: 第30课
+---
+FRONT: 欲しい  
+BACK: (ほしい②) [い形] 想要的[sound:30-01.mp3]
+---
+FRONT: 飼う  
+BACK: (かう①) [他动1] 养，饲养  [sound:30-02.mp3]
+---
+FRONT: 魚  
+BACK: (さかな⓪) [名] 鱼  [sound:30-03.mp3]
+---
+FRONT: 出す  
+BACK: (だす①) [他动1] 拿出，提出，送出，提交  [sound:30-04.mp3]
+---
+FRONT: 実は  
+BACK: (じつは②) [副] 其实  [sound:30-05.mp3]
+---
+FRONT: 相談  
+BACK: (そうだん⓪) [名/他动3] 商量，商议 [sound:30-06.mp3] 
+---
+FRONT: 恋  
+BACK: (こい①) [名] 恋爱  [sound:30-07.mp3]
+---
+FRONT: 落ちる  
+BACK: (おちる②) [自动2] 落，掉落  [sound:30-08.mp3]
+---
+FRONT: 素敵  
+BACK: (すてき⓪) [な形] 极好的，绝佳的  [sound:30-09.mp3]
+---
+FRONT: 得意  
+BACK: (とくい②) [名/な形] 拿手的，擅长的  [sound:30-10.mp3]
+---
+FRONT: 告白  
+BACK: (こくはく⓪) [名/他动3] 告白  [sound:30-11.mp3]
+---
+FRONT: 練習  
+BACK: (れんしゅう⓪) [名/他动3] 练习  [sound:30-12.mp3]
+---
+FRONT: きっと⓪  
+BACK: [副] 一定  [sound:30-13.mp3]
+---
+FRONT: 勇気  
+BACK: (ゆうき①) [名] 勇气  [sound:30-14.mp3]
+---
+FRONT: オッケー/オーケー①
+BACK: [叹] 好，可以(OK)  [sound:30-15.mp3]
+---
+FRONT: 笑顔  
+BACK: (えがお①) [名] 笑脸，笑顔  [sound:30-16.mp3]
+---
+SUBDECK: 第30课后 动词た形专题 
+---
+FRONT: 連絡
+BACK: (れんらく⓪) [名/自他动3] 联系[sound:30-ta-01.mp3]
+---
+FRONT: 朝ご飯
+BACK: (あさごはん③) [名] 早饭[sound:30-ta-02.mp3]
+---
+FRONT: 小説
+BACK: (しょうせつ⓪) [名] 小说[sound:30-ta-03.mp3]
+---
+SUBDECK: 第31课
+---
+FRONT: 病気
+BACK: (びょうき⓪) [名] 病[sound:31-01.mp3]
+---
+FRONT: なる①
+BACK: [自动1] 成，变成，成为[sound:31-02.mp3]
+---
+FRONT: 会員
+BACK: (かいいん⓪) [名] 会員[sound:31-03.mp3]
+---
+FRONT: 使う
+BACK: (つかう⓪) [他动1] 使用[sound:31-04.mp3]
+---
+FRONT: すごく②
+BACK: [副] 十分，非常，相当[sound:31-05.mp3]
+---
+FRONT: だんだん⓪
+BACK: [副] 渐渐地[sound:31-06.mp3]
+---
+FRONT: 知る
+BACK: (しる⓪) [他动1] 知道，认识[sound:31-07.mp3]
+---
+FRONT: つい①
+BACK: [副] 一不小心[sound:31-08.mp3]
+---
+FRONT: 微笑む
+BACK: (ほほえむ③) [自动1] 微笑[sound:31-09.mp3]
+---
+FRONT: ～なんか
+BACK: [助] ......等等，之类[sound:31-10.mp3]
+---
+FRONT: ずっと⓪
+BACK: [副] 一直，始终；......得多[sound:31-11.mp3]
+---
+FRONT: 忘れる
+BACK: (わすれる⓪) [他动2] 忘记[sound:31-12.mp3]
+---
+FRONT: 苦しむ
+BACK: (くるしむ③) [自动1] 痛苦[sound:31-13.mp3]
+---
+FRONT: ビル
+BACK: (ビル①) [名] 大楼，大厦(building)[sound:31-14.mp3]
+---
+FRONT: 説明
+BACK: (せつめい⓪) [名/他动3] 说明[sound:31-15.mp3]
+---
+FRONT: 教科書
+BACK: (きょうかしょ③) [名] 教科书[sound:31-16.mp3]
+---
+FRONT: 時々
+BACK: (ときどき⓪) [副] 时而，有时[sound:31-17.mp3]
+---
+FRONT: 偶に
+BACK: (たまに⓪) [副] 偶尔，稀少[sound:31-18.mp3]
+---
+FRONT: ちゃんと⓪
+BACK: [副] 好好地，恰当地[sound:31-19.mp3]
+---
+FRONT: 復習
+BACK: (ふくしゅう⓪) [名/他动3] 复习[sound:31-20.mp3]
+---
+FRONT: ぺこぺこ⓪
+BACK: [な形] 肚子很饿的样子[sound:31-21.mp3]
+---
+FRONT: しっかり③
+BACK: [副] 结实，牢固；坚强，可靠；扎实，稳健[sound:31-22.mp3]
+---
+SUBDECK: 第32课
+---
+FRONT: もらう
+BACK: (もらう⓪) [他动1] 得到，收到[sound:32-01.mp3]
+---
+FRONT: 立つ
+BACK: (たつ①) [自动1] 站，立[sound:32-02.mp3]
+---
+FRONT: 頂く
+BACK: (いただく⓪) [他动1] 领受，拜领，承蒙赐予；吃，喝(もらう、食べる、飲む的自谦语〈敬语〉)[sound:32-03.mp3]
+---
+FRONT: 部長
+BACK: (ぶちょう⓪) [名] 部长[sound:32-04.mp3]
+---
+FRONT: 直す
+BACK: (なおす②) [他动1] 修改，修理[sound:32-05.mp3]
+---
+FRONT: 音
+BACK: (おと②) [名] 声音[sound:32-06.mp3]
+---
+FRONT: 会議室
+BACK: (かいぎしつ③) [名] 会议室[sound:32-07.mp3]
+---
+FRONT: ニンジン⓪
+BACK: [名] 胡萝卜[sound:32-08.mp3]
+---
+FRONT: 太い
+BACK: (ふとい②) [い形] 粗的，胖的[sound:32-09.mp3]
+---
+FRONT: 細い
+BACK: (ほそい②) [い形] 细的，瘦的[sound:32-10.mp3]
+---
+FRONT: 晩ご飯
+BACK: (ばんごはん③) [名] 晚饭[sound:32-11.mp3]
+---
+FRONT: 野菜
+BACK: (やさい⓪) [名] 蔬菜，青菜[sound:32-12.mp3]
+---
+FRONT: サラダ①
+BACK: [名] 沙拉(salad)[sound:32-13.mp3]
+---
+FRONT: レモンティー②④
+BACK: [名] 柠檬茶(和制英语lemon tea)[sound:32-14.mp3]
+---
+FRONT: 文章
+BACK: (ぶんしょう①) [名] 文章[sound:32-15.mp3]
+---
+FRONT: 楽々
+BACK: (らくらく③⓪) [副] 舒适，舒服[sound:32-16.mp3]
+---
+FRONT: 止まる
+BACK: (とまる⓪) [自动1] 停，停下[sound:32-17.mp3]
+---
+FRONT: そのまま⓪
+BACK: [副] 原封不动[sound:32-18.mp3]
+---
+FRONT: 着く
+BACK: (つく①②) [自动1] 到达；寄到，运到；够得到[sound:32-19.mp3]
+---
+FRONT: 運賃
+BACK: (うんちん①) [名] 车费，运费[sound:32-20.mp3]
+---
+FRONT: IC
+BACK: (アイシー③) [名] 集成电路(integrated circuit)[sound:32-21.mp3]
+---
+FRONT: カード①
+BACK: [名] 卡(card)[sound:32-22.mp3]
+---
+FRONT: おっ①⓪
+BACK: [叹] 哦(用于突然注意到某事、吃惊时)[sound:32-23.mp3]
+---
+FRONT: 入園料
+BACK: (にゅうえんりょう③) [名] 入园费[sound:32-24.mp3]
+---
+FRONT: クーポン①
+BACK: [名] 优惠券(coupon)[sound:32-25.mp3]
+---
+FRONT: やれやれ①
+BACK: [叹] 哎呀，哎呀哎呀(用于放心或失望时)[sound:32-26.mp3]
+---
+FRONT: 存在感
+BACK: (そんざいかん③) [名] 存在感[sound:32-27.mp3]
+---
+FRONT: タッチする①
+BACK: [他动3] 触碰，触摸；触及，接触(touch)
+カードを〜 刷卡[sound:32-28.mp3]
+---
+FRONT: 電気屋
+BACK: (でんきや⓪) [名] 电器商店[sound:32-29.mp3]
+---
+FRONT: 商品
+BACK: (しょうひん①) [名] 商品[sound:32-30.mp3]
+---
+FRONT: セール①
+BACK: [名] 促销(sale)[sound:32-31.mp3]
+---
+FRONT: バーゲン①
+BACK: [名] 大甩卖，廉价销售(bargain)[sound:32-32.mp3]
+---
+FRONT: 割引
+BACK: (わりびき⓪) [名] 打折，减价[sound:32-33.mp3]
+---
+FRONT: 1割引
+BACK: (いち わりびき) 9折[sound:32-34.mp3]
+---
+FRONT: 2割引
+BACK: (に わりびき) 8折[sound:32-35.mp3]
+---
+FRONT: 25%引
+BACK: (にじゅうご パーセントびき) 75折[sound:32-36.mp3]
+---
+FRONT: 半額
+BACK: (はんがく⓪) [名] 半价[sound:32-37.mp3]
+---
+FRONT:サービス①
+BACK:[名] 服务；甩卖，廉价出售，附带赠品出售(service)[sound:32-38.mp3]
+---
+FRONT:無料サービス
+BACK:（むりょう サービス④）[名] 免费服务[sound:32-39.mp3]
+---
+FRONT: 現金
+BACK: (げんきん③) [名] 现金[sound:32-40.mp3]
+---
+FRONT: クレジットカード⑥
+BACK: [名] 信用卡[sound:32-41.mp3]
+---
+FRONT: 定期券
+BACK: (ていきけん③) [名] 定期车票（在某段时间内可在某段区间内使用的打折车票）[sound:32-42.mp3]
+---
+FRONT: 回数券
+BACK: (かいすうけん③) [名] 回数券，套票[sound:32-43.mp3]
+---
+FRONT: 学生証
+BACK:（がくせいしょう⓪）[名] 学生证[sound:32-44.mp3]
+---
+FRONT: パスポート③
+BACK: [名] 护照[sound:32-45.mp3]
+---
+FRONT: ビザ①
+BACK: [名] 签证[sound:32-46.mp3]
+---
+FRONT: 身分証明書
+BACK: (みぶんしょうめいしょ⑧⓪) [名] 身份证[sound:32-47.mp3]
+---
+SUBDECK: 第33课
+---
+FRONT: 荷物  
+BACK: (にもつ①) [名] 行李[sound:33-01.mp3]
+---
+FRONT: 随分  
+BACK: (ずいぶん①) [副] 相当，非常[sound:33-02.mp3]
+---
+FRONT: 重い  
+BACK: (おもい⓪) [い形] 重的  [sound:33-03.mp3]
+---
+FRONT: 色々  
+BACK: (いろいろ⓪) [副/な形] 各种各样  [sound:33-04.mp3]
+---
+FRONT: 軽い  
+BACK: (かるい⓪) [い形] 轻的  [sound:33-05.mp3]
+---
+FRONT: 顔色  
+BACK: (かおいろ⓪) [名] 脸色  [sound:33-06.mp3]
+---
+FRONT: ゆっくり③  
+BACK: [副] 慢慢地；充裕，充分；舒适，闲适[sound:33-07.mp3]
+---
+FRONT: 予約  
+BACK: (よやく⓪) [名/他动3] 预约  [sound:33-08.mp3]
+---
+FRONT: 買い物  
+BACK: (かいもの⓪) [名] 购物  [sound:33-09.mp3]
+---
+FRONT: 不便  
+BACK: (ふべん①) [な形] 不方便的  [sound:33-10.mp3]
+---
+FRONT: 大分  
+BACK: (だいぶ⓪/だいぶん⓪) [副] 相当，不少[sound:33-11.mp3]
+---
+FRONT: 道具  
+BACK: (どうぐ③) [名] 道具[sound:33-12.mp3]
+---
+FRONT: 大勢  
+BACK: (おおぜい) [副]⓪ [名]③ 很多(人)[sound:33-13.mp3]  
+---
+FRONT: ジェットコースター④  
+BACK: [名] 过山车  [sound:33-14.mp3]
+---
+FRONT: どうやって①  
+BACK: 如何做（询问方式）[sound:33-15.mp3]
+---
+FRONT: 道  
+BACK: (みち⓪) [名] 道路  [sound:33-16.mp3]
+---
+FRONT: まっすぐ③  
+BACK: [副/な形] 一直，笔直，耿直[sound:33-17.mp3]
+---
+FRONT: ～目  
+BACK: (め) 第......（个）[sound:33-18.mp3]
+---
+FRONT: 交差点  
+BACK: (こうさてん⓪③) [名] 路口[sound:33-19.mp3]
+---
+FRONT: 曲がる
+BACK: (まがる⓪) [自动1] 弯，转弯  [sound:33-20.mp3]
+---
+FRONT:メートル⓪
+BACK:[量] 米（mètre〈法〉）【长度单位】[sound:33-21.mp3]
+---
+FRONT: 歩く  
+BACK: (あるく②) [自动1] 走，步行  [sound:33-22.mp3]
+---
+FRONT: 左侧  
+BACK: (ひだりがわ⓪) [名] 左侧  [sound:33-23.mp3]
+---
+FRONT: 急ぐ  
+BACK: (いそぐ②) [自他动1] 急，着急；加急  [sound:33-24.mp3]
+---
+FRONT: 右侧  
+BACK: (みぎがわ⓪) [名] 右侧  [sound:33-25.mp3]
+---
+FRONT: そのまま⓪
+BACK: [副] 原封不动地，照原来那样  [sound:33-26.mp3]
+---
+FRONT: このまま⓪
+BACK: [副] 就这样，照现在这样  [sound:33-27.mp3]
+---
+FRONT: すぐ①  
+BACK: [副] 相距很近[sound:33-28.mp3]
+---
+FRONT: 橋  
+BACK: (はし②) [名] 桥，桥梁[sound:33-29.mp3]
+---
+FRONT: 渡る  
+BACK: (わたる⓪) [自动1] 过，渡，穿越[sound:33-30.mp3]
+---
+FRONT: キロメートル③  
+BACK: [量] 千米 （kilomètre〈法〉）【长度单位】[sound:33-31.mp3]
+---
+FRONT: 目の前  
+BACK: (めのまえ③) [名] 眼前  [sound:33-32.mp3]
+---
+FRONT: 出口  
+BACK: (でぐち①) [名] 出口  [sound:33-33.mp3]
+---
+FRONT: 入り口  
+BACK: (いりぐち⓪) [名] 入口  [sound:33-34.mp3]
+---
+FRONT: 地図  
+BACK: (ちず①) [名] 地图  [sound:33-35.mp3]
+---
+FRONT: 街  
+BACK: (まち②) [名] 街道  [sound:33-36.mp3]
+---
+FRONT: ゲームセンター  
+BACK: (ゲームセンター④) [名] 游戏中心(game center)[sound:33-37.mp3]
+---
+SUBDECK: 第34课
+---
+FRONT: 薬局
+BACK: (やっきょく⓪) [名] 药店，药房[sound:34-01.mp3]
+---
+FRONT: 終わる
+BACK: (おわる⓪) [自动1] 结束[sound:34-02.mp3]
+---
+FRONT: 洗う
+BACK: (あらう⓪) [他动1] 洗[sound:34-03.mp3]
+---
+FRONT: 答える
+BACK: (こたえる③②) [自动2] 回答，答复[sound:34-04.mp3]
+---
+FRONT: 音楽会
+BACK: (おんがくかい③) [名] 音乐会[sound:34-05.mp3]
+---
+FRONT: 聞く
+BACK: (きく⓪) [他动1] 听，打听，问[sound:34-06.mp3]
+---
+FRONT: 歌
+BACK: (うた②) [名] 歌[sound:34-07.mp3]
+---
+FRONT: 歌う
+BACK: (うたう⓪) [他动1] 唱[sound:34-08.mp3]
+---
+FRONT: 切る
+BACK: (きる①) [他动1] 切，中断[sound:34-09.mp3]
+---
+FRONT: お手洗い
+BACK: (おてあらい③) [名] 洗手间[sound:34-10.mp3]
+---
+FRONT: 借りる
+BACK: (かりる⓪) [他动2] 借来[sound:34-11.mp3]
+---
+FRONT: かまいません
+BACK: 不介意。没关系。[sound:34-12.mp3]
+---
+FRONT: 貸す
+BACK: (かす⓪) [他动1] 借出，外借[sound:34-13.mp3]
+---
+FRONT: 教える
+BACK: (おしえる⓪) [他动2] 教，告诉[sound:34-14.mp3]
+---
+FRONT: 質問
+BACK: (しつもん⓪) [名/自他动3] 提问，询问[sound:34-15.mp3]
+---
+FRONT: バッグ①
+BACK: [名] 手提包(bag)[sound:34-16.mp3]
+---
+FRONT: 鳴る
+BACK: (なる⓪) [自动1] 鸣，鸣叫[sound:34-17.mp3]
+---
+FRONT: 用/ご用
+BACK: (よう①/ごよう②) [名] （必须做的）事，事情[sound:34-18.mp3]
+---
+FRONT: 声
+BACK: (こえ①) [名] 声音[sound:34-19.mp3]
+---
+FRONT: コピー
+BACK: (コピー①) [名/他动3] 复印(copy)[sound:34-20.mp3]
+---
+FRONT: アラーム②
+BACK: [名] 警报装置，闹钟(alarm)[sound:34-21.mp3]
+---
+FRONT:牛
+BACK:（うし⓪）[名] 牛[sound:34-22.mp3]
+---
+SUBDECK: 第35课
+---
+FRONT:カメラ①
+BACK:[名] 相机(camera)[sound:35-01.mp3]
+---
+FRONT:撮る
+BACK:（とる①）[他动1] 拍，拍摄[sound:35-02.mp3]
+---
+FRONT:ナイフ①
+BACK:[名] 小刀，西餐刀(knife)[sound:35-03.mp3]
+---
+FRONT:スプーン②
+BACK:[名] 匙，勺子(spoon)[sound:35-04.mp3]
+---
+FRONT: 箸  
+BACK: (はし①) [名] 筷子  [sound:35-05.mp3]
+---
+FRONT: 書く  
+BACK: (かく①) [他动1] 写  [sound:35-06.mp3]
+---
+FRONT: ネット⓪①/インターネット⑤
+BACK: [名] 网络(net/internet)  [sound:35-07.mp3]
+---
+FRONT: 習う  
+BACK: (ならう②) [他动1] 学习  [sound:35-08.mp3]
+---
+FRONT: 木  
+BACK: (き①) [名] 树，树木；木头，木料  [sound:35-09.mp3]
+---
+FRONT: 紙  
+BACK: (かみ②) [名] 纸  [sound:35-10.mp3]
+---
+FRONT: ジャガいも⓪
+BACK: [名] 马铃薯，土豆，洋芋[sound:35-11.mp3]
+---
+FRONT: トマト①  
+BACK: [名] 西红柿，番茄(tomato)  [sound:35-12.mp3]
+---
+FRONT: 皿  
+BACK: (さら⓪) [名] 碟子，盘子  [sound:35-13.mp3]
+---
+FRONT: ダンス①  
+BACK: [名] 跳舞，舞蹈，交际舞(dance)  [sound:35-14.mp3]
+---
+FRONT: 何で  
+BACK: (なんで①) [副] 为什么  [sound:35-15.mp3]
+---
+FRONT: かかる  
+BACK: (かかる②) [自动1] 花费(时间、金钱)  [sound:35-16.mp3]
+---
+FRONT: どれぐらい/どのぐらい⓪①
+BACK: [副] 大约多少  [sound:35-17.mp3]
+---
+FRONT: 無理  
+BACK: (むり①) [名/な形/自动3] 无理，硬干，勉强  [sound:35-18.mp3]
+---
+FRONT: ヘリコプター③  
+BACK: [名] 直升机(helicopter)[sound:35-19.mp3]
+---
+FRONT: イケメン⓪
+BACK: [名] 帅哥  [sound:35-20.mp3]
+---
+FRONT: ぜひ①  
+BACK: [副] 务必，一定[sound:35-21.mp3]
+---
+FRONT: ギター①  
+BACK: [名] 吉他(guitar)  [sound:35-22.mp3]
+---
+FRONT: フォーク①  
+BACK: [名] 餐叉(fork)  [sound:35-23.mp3]
+---
+SUBDECK: 第36课
+---
+FRONT: 課長  
+BACK: (かちょう⓪) [名] 科长 [sound:36-01.mp3]
+---  
+FRONT: 資料  
+BACK: (しりょう①) [名] 资料  [sound:36-02.mp3]
+---  
+FRONT: 置く  
+BACK: (おく⓪) [他动1] 放，放置，留下  [sound:36-03.mp3]
+---  
+FRONT: 開ける  
+BACK: (あける⓪) [他动2] 开，打开  [sound:36-04.mp3]
+---  
+FRONT: 閉める  
+BACK: (しめる②) [他动2] 关闭  [sound:36-05.mp3]
+---  
+FRONT: つける  
+BACK: (つける②) [他动2] 开，接通（电源），点（灯）  [sound:36-06.mp3]
+---  
+FRONT: 消す  
+BACK: (けす⓪) [他动1] 消，关，灭，删  [sound:36-07.mp3]
+---  
+FRONT: 電気  
+BACK: (でんき①) [名] 电，电灯  [sound:36-08.mp3]
+---  
+FRONT: 風邪  
+BACK: (かぜ⓪) [名] 感冒  [sound:36-09.mp3]
+---  
+FRONT: 引く  
+BACK: (ひく⓪) [他动1] 吸，拉  [sound:36-10.mp3]
+---  
+FRONT: ドア  
+BACK: (ドア①) [名] 门（door）[sound:36-11.mp3]
+---  
+FRONT: 押す  
+BACK: (おす⓪) [他动1] 推，按  [sound:36-12.mp3]
+---  
+FRONT: 生まれる  
+BACK: (うまれる⓪) [自动2] 出生  [sound:36-13.mp3]
+---  
+FRONT: 初めて  
+BACK: (はじめて②) [副] 首次，初次  [sound:36-14.mp3]
+---  
+FRONT: ボタン  
+BACK: (ボタン⓪) [名] 按钮，纽扣（button）  [sound:36-15.mp3]
+---  
+FRONT: 曲  
+BACK: (きょく⓪) [名] 曲子  [sound:36-16.mp3]
+---  
+FRONT: タバコ  
+BACK: (タバコ⓪) [名] 香烟（tabaco（葡））[sound:36-17.mp3]  
+---  
+FRONT: 吸う  
+BACK: (すう⓪) [他动1] 吸，吸入  [sound:36-18.mp3]
+---  
+FRONT: 勿論  
+BACK: (もちろん②) [副] 当然  [sound:36-19.mp3]
+---  
+FRONT: 座る  
+BACK: (すわる⓪) [自动1] 坐，跪坐  [sound:36-20.mp3]
+---  
+FRONT: バック①  
+BACK: [名] 背景（back）  [sound:36-21.mp3]
+---  
+FRONT: 赤ちゃん  
+BACK: (あかちゃん①) [名] 婴儿  [sound:36-22.mp3]
+---  
+FRONT: 席  
+BACK: (せき①) [名] 席，席位，座位  [sound:36-23.mp3]
+---  
+FRONT: 助ける  
+BACK: (たすける③) [他动2] 救助；帮助；资助，救济[sound:36-24.mp3]  
+---  
+FRONT: メールアドレス④  
+BACK: [名] 邮箱，邮箱地址（mail address）  [sound:36-25.mp3]
+---  
+FRONT: 苦い  
+BACK: (にがい②) [い形] 苦，味苦的  [sound:36-26.mp3]
+---
+SUBDECK: 第37课
+---
+FRONT: 結婚式  
+BACK: (けっこんしき③) [名] 婚礼  [sound:37-01.mp3]
+---  
+FRONT: 展覧会  
+BACK: (てんらんかい③) [名] 展会  [sound:37-02.mp3]
+---  
+FRONT: 卒業式  
+BACK: (そつぎょうしき③) [名] 毕业典礼  [sound:37-03.mp3]
+---  
+FRONT: パーティー①  
+BACK: [名] 聚会 (party)  [sound:37-04.mp3]
+---  
+FRONT: 写真展  
+BACK: (しゃしんてん②) [名] 摄影展  [sound:37-05.mp3]
+---  
+FRONT: グラウンド⓪
+BACK: [名] 运动场, 操场, 场地 (ground)  [sound:37-06.mp3]
+---  
+FRONT: 毎年  
+BACK: (まいとし⓪) [名] 毎年, 年年  [sound:37-07.mp3]
+---  
+FRONT: マラソン⓪  
+BACK: [名] 马拉松 (marathon)  [sound:37-08.mp3]
+---  
+FRONT: アルバム⓪  
+BACK: [名] 相册 (album)  [sound:37-09.mp3]
+---  
+FRONT: 見せる  
+BACK: (みせる②) [他动2] 出示, 展示, 给人看  [sound:37-10.mp3]
+---  
+FRONT: 夜空  
+BACK: (よぞら①) [名] 夜空  [sound:37-11.mp3]
+---  
+FRONT: 一度も／一回も
+BACK: (いちども⓪／いっかいも⓪) [副] 一次也 (没)  [sound:37-12.mp3]
+---  
+FRONT: 花火  
+BACK: (はなび①) [名] 烟火, 焰火  [sound:37-13.mp3]
+---  
+FRONT: 始まる  
+BACK: (はじまる⓪) [自动1] 开始  [sound:37-14.mp3]
+---  
+FRONT: しかし  
+BACK: (しかし②) [连] 但是, 然而  [sound:37-15.mp3]
+---  
+FRONT: 絶対  
+BACK: (ぜったい⓪) [名/副] 绝对[sound:37-16.mp3]
+---  
+FRONT: 悪夢  
+BACK: (あくむ①) [名] 噩梦  [sound:37-17.mp3]
+---  
+FRONT: 有名人  
+BACK: (ゆうめいじん③) [名] 名人  [sound:37-18.mp3]
+---  
+FRONT: 始める  
+BACK: (はじめる⓪) [他动2] 始, 开始; 开创, 创办[sound:37-19.mp3]  
+---  
+FRONT: 今晩  
+BACK: (こんばん①) [名] 今夜, 今晩  [sound:37-20.mp3]
+---
+SUBDECK: 第38课
+---
+FRONT: 危ない  
+BACK: (あぶない⓪③) [い形] 危险，不安全  [sound:38-01.mp3]
+---  
+FRONT: ところ③  
+BACK: [名] 地方，场所  [sound:38-02.mp3]
+---  
+FRONT: ネックレス①  
+BACK: [名] 项链 (necklace)  [sound:38-03.mp3]
+---  
+FRONT: 給料  
+BACK: (きゅうりょう①) [名] 工资  [sound:38-04.mp3]
+---  
+FRONT: 辞める  
+BACK: (やめる⓪) [他动2] 辞（职）[sound:38-05.mp3]
+---  
+FRONT: 決める  
+BACK: (きめる⓪) [他动2] 定，決定，规定；下决心  [sound:38-06.mp3]
+---  
+FRONT: 応援  
+BACK: (おうえん⓪) [名/他动3] 援助，支持；声援  [sound:38-07.mp3]
+---  
+FRONT: ところで③  
+BACK: [连] 欸（用于转换话题） [sound:38-08.mp3]
+---  
+FRONT: 社長  
+BACK: (しゃちょう⓪) [名] 社长  [sound:38-09.mp3]
+---  
+FRONT: すっかり③
+BACK: [副] 完全  [sound:38-10.mp3]
+---
+FRONT:いけない⓪
+BACK:不行。不好。[sound:38-11.mp3]
+---
+FRONT: 全部  
+BACK: (ぜんぶ①) [名] 全部，都  [sound:38-12.mp3]
+---  
+FRONT: 返す  
+BACK: (かえす①) [他动1] 归还  [sound:38-13.mp3]
+---  
+FRONT: くれる  
+BACK: (くれる⓪) [他动2] 给（我），他人给自己东西  [sound:38-14.mp3]
+---  
+FRONT: 日記  
+BACK: (にっき⓪) [名] 日记  [sound:38-15.mp3]
+---  
+FRONT: 腕時計  
+BACK: (うでどけい③) [名] 手表  [sound:38-16.mp3]
+---
+SUBDECK: 第39课
+---
+FRONT: 駐車場  
+BACK: (ちゅうしゃじょう⓪) [名] 停车场 [sound:39-01.mp3]
+---  
+FRONT: 止める  
+BACK: (とめる⓪) [他动2] 停，停下  [sound:39-02.mp3]
+---  
+FRONT: コピー機  
+BACK: (コピーき②) [名] 复印机  [sound:39-03.mp3]
+---  
+FRONT: 壊れる  
+BACK: (こわれる③) [自动2] 坏，发生故障  [sound:39-04.mp3]
+---  
+FRONT: 電源  
+BACK: (でんげん⓪) [名] 电源  [sound:39-05.mp3]
+---  
+FRONT: まず  
+BACK: (まず①) [副] 首先  [sound:39-06.mp3]
+---  
+FRONT: スイッチ  
+BACK: (スイッチ②①) [名] 开关 (switch)  [sound:39-07.mp3]
+---  
+FRONT: 心配  
+BACK: (しんぱい⓪) [名/他动3] 担心  [sound:39-08.mp3]
+---  
+FRONT: 届く  
+BACK: (とどく②) [自动1] 到，送到；够到，达到  [sound:39-09.mp3]
+---  
+FRONT: 速達  
+BACK: (そくたつ⓪) [名] 快递，快件  [sound:39-10.mp3]
+---  
+FRONT: 書留  
+BACK: (かきとめ⓪) [名] 挂号信，挂号邮件  [sound:39-11.mp3]
+---  
+FRONT: 切手  
+BACK: (きって⓪) [名] 邮票  [sound:39-12.mp3]
+---  
+FRONT: はがき⓪  
+BACK: (葉書) [名] 明信片  [sound:39-13.mp3]
+---  
+FRONT: 貼る  
+BACK: (はる⓪) [他动1] 贴，糊，粘上  [sound:39-14.mp3]
+---  
+FRONT: ポスト①  
+BACK: [名] 邮筒，信箱 (post)  [sound:39-15.mp3]
+---  
+FRONT: 小包  
+BACK: (こづつみ②) [名] 邮政包裹，小包  [sound:39-16.mp3]
+---  
+FRONT: EMS  
+BACK: (イーエムエス⑤) [专] EMS（国际特快专递）  [sound:39-17.mp3]
+---  
+FRONT: 料金  
+BACK: (りょうきん①) [名] 费用  [sound:39-18.mp3]
+---  
+FRONT: 〜キロ①  
+BACK: (kilo)
+キログラム③ [量] 千克，公斤 (kilogram) [重量单位]  
+キロメートル③ [量] 千米，公里 (kilometre（法）) [长度单位]  [sound:39-19.mp3]
+---  
+FRONT: 〜以内  
+BACK: (いない①) ……之内  [sound:39-20.mp3]
+---  
+FRONT: 中身  
+BACK: (なかみ②) [名] 内容，内容物  [sound:39-21.mp3]
+---  
+FRONT: 人形  
+BACK: (にんぎょう⓪) [名] 人偶，娃娃  [sound:39-22.mp3]
+---  
+FRONT: 住所  
+BACK: (じゅうしょ①) [名] 住处，住址  [sound:39-23.mp3]
+---  
+FRONT: 携帯番号  
+BACK: (けいたいばんごう⑤) [名] 手机号码  [sound:39-24.mp3]
+---  
+FRONT: スケジュール③  
+BACK: [名] 日程（表），预定（表） (schedule)  [sound:39-25.mp3]
+---  
+FRONT: 黑板  
+BACK: (こくばん⓪) [名] 黑板  [sound:39-26.mp3]
+---  
+FRONT: 描く  
+BACK: (かく①) [他动1] 画，绘画，画图，绘图[sound:39-27.mp3]  
+---  
+FRONT: 番号  
+BACK: (ばんごう③) [名] 号码  [sound:39-28.mp3]
+---
+SUBDECK: 第40课
+---
+FRONT: つらい⓪②  
+BACK: [い形] 艰辛，辛苦，痛苦，难过  [sound:40-01.mp3]
+---  
+FRONT: 迎える  
+BACK: (むかえる⓪) [他动2] 迎，迎接，招待，出迎  [sound:40-02.mp3]
+---  
+FRONT: 必ず  
+BACK: (かならず⓪) [副] 必定，务必  [sound:40-03.mp3]
+---  
+FRONT: 気を付ける  
+BACK: (き⓪をつける②) 小心，注意  [sound:40-04.mp3]
+---  
+FRONT: 棚  
+BACK: (たな⓪) [名] 搁板；架子，橱；棚  [sound:40-05.mp3]
+---  
+FRONT: 触る  
+BACK: (さわる⓪) [自动1] 摸，触碰  [sound:40-06.mp3]
+---  
+FRONT: 頑張る  
+BACK: (がんばる③) [自动1] 加油，努力  [sound:40-07.mp3]
+---  
+FRONT: 幸福  
+BACK: (こうふく⓪) [名/な形] 幸福  [sound:40-08.mp3]
+---  
+FRONT: 知り合う  
+BACK: (しりあう③) [自动1] 相识，结识  [sound:40-09.mp3]
+---  
+FRONT: 半年  
+BACK: (はんとし④) [名] 半年  [sound:40-10.mp3]
+---  
+FRONT: 笑う  
+BACK: (わらう⓪) [自动1] 笑；[他动] 嗤笑，讥笑，嘲笑  [sound:40-11.mp3]
+---  
+FRONT: 泣く  
+BACK: (なく⓪) [自动1] 哭，啼哭，哭泣  [sound:40-12.mp3]
+---  
+FRONT: そば①（傍、側）
+BACK: [名] 侧，旁边，附近  [sound:40-13.mp3]
+---  
+FRONT: 空気  
+BACK: (くうき①) [名] 空气  [sound:40-14.mp3]
+---  
+FRONT: なるほど⓪
+BACK: [副] 的确，诚然；[叹] 的确，可不是嘛，原来如此（表示同感）[sound:40-15.mp3]
+---  
+FRONT: バラ⓪
+BACK: [名] 玫瑰  [sound:40-16.mp3]
+---  
+FRONT: あはは①③  
+BACK: [叹] 啊哈哈（张口大笑的声音）  [sound:40-17.mp3]
+---  
+FRONT: 冗談  
+BACK: (じょうだん③) [名] 玩笑，戏谑  [sound:40-18.mp3]
+---  
+FRONT: 象  
+BACK: (ぞう①) [名] 象，大象  [sound:40-19.mp3]
+---  
+FRONT: 毎回  
+BACK: (まいかい⓪) [名] 每回，每次  [sound:40-20.mp3]
+---  
+FRONT: 太る  
+BACK: (ふとる②) [自动1] 发胖  [sound:40-21.mp3]
+---  
+FRONT: 瘦せる  
+BACK: (やせる⓪) [自动2] 变瘦  [sound:40-22.mp3]
+---  
+FRONT: 暗い  
+BACK: (くらい⓪) [い形] 暗，昏暗；发暗；阴暗 [sound:40-23.mp3] 
+---  
+FRONT: ごみ⓪
+BACK: [名] 垃圾  [sound:40-24.mp3]
+---  
+FRONT: 捨てる  
+BACK: (すてる⓪) [他动2] 扔掉，舍弃  [sound:40-25.mp3]
+---  
+FRONT: ごみ箱 
+BACK: (ごみばこ⓪③) [名] 垃圾箱  [sound:40-26.mp3]
+---
